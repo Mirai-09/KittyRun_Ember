@@ -1,0 +1,550 @@
+63f7b34db8d8cdea90c76aacccf841ec
+::res://::1773652954
+export_presets.cfg::TextFile::-1::1773652886::0::1::::<><><>0<>0<><>::
+::res://Assets/::1773652553
+caveRemasteredV7.png::CompressedTexture2D::7676895590449190397::1773652553::1773652553::1::::<><><>0<>0<>2ccde3ec9c1fa43b1c8d7406c776dab2<>res://.godot/imported/caveRemasteredV7.png-85c20a98eec8557839b0d567a9507303.ctex::
+goldensoundlabs-shimmy-294651.mp3::AudioStreamMP3::5633666777856032670::1773544726::1773545281::1::::<><><>0<>0<>0a7d6aab24c79df21828b27880980894<>res://.godot/imported/goldensoundlabs-shimmy-294651.mp3-00c2cb7974ea02bffd774ef0a55fdbc7.mp3str::
+image (1).png::CompressedTexture2D::8572414585868147106::1773544726::1773545282::1::::<><><>0<>0<>8e0fd88c4624f760516c9965f5106f8b<>res://.godot/imported/image (1).png-49582c6c4ea62e7c32e062fb484102d6.ctex::
+::res://Assets/brackeys_platformer_assets/::1773652520
+caveRemasteredV7.png::CompressedTexture2D::6113223465807215197::1773652518::1773652520::1::::<><><>0<>0<>104b1f9c39c42a0c77b300bac516cd82<>res://.godot/imported/caveRemasteredV7.png-9e34acaf35d6435bfa2b85bd429734eb.ctex::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/::1773652552
+LICENSE & CREDITS.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/brackeys_platformer_assets/::1773652568
+LICENSE & CREDITS.txt::TextFile::-1::1773652516::0::1::::<><><>0<>0<><>::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/brackeys_platformer_assets/fonts/::1773652568
+PixelOperator8-Bold.ttf::FontFile::4675728511916864816::1773652516::1773652519::1::::<><><>0<>0<>a4f3c960dfe0558ede5f57b2498aec09<>res://.godot/imported/PixelOperator8-Bold.ttf-0102396f677f1d5543ae6f5aa779b54a.fontdata::
+PixelOperator8.ttf::FontFile::1478852164091896697::1773652516::1773652519::1::::<><><>0<>0<>0d472c56e330621b4b15495a669494de<>res://.godot/imported/PixelOperator8.ttf-4f9f4d3c1a058e8a12290e5f080a733d.fontdata::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/brackeys_platformer_assets/music/::1773652568
+time_for_adventure.mp3::AudioStreamMP3::2082885653522380698::1773652516::1773652519::1::::<><><>0<>0<>b259f91589a43cc7d122fc20ca146b8a<>res://.godot/imported/time_for_adventure.mp3-1830ee4ad71a27b5f7504123c519580b.mp3str::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/brackeys_platformer_assets/sounds/::1773652568
+coin.wav::AudioStreamWAV::6750816554855794109::1773652516::1773652531::1::::<><><>0<>0<>1c44b3cc5368727b05234706a30d5453<>res://.godot/imported/coin.wav-901abd506cc7a9aea0785272b8ca64c0.sample::
+explosion.wav::AudioStreamWAV::8424946675703955514::1773652516::1773652531::1::::<><><>0<>0<>4e7ea517f9cd002e4d1b7edf357271d4<>res://.godot/imported/explosion.wav-c4c8f0ac2d9e8ce58008b1fcb62d16ee.sample::
+hurt.wav::AudioStreamWAV::6412104184434019692::1773652516::1773652531::1::::<><><>0<>0<>b19e163dea35e08b5163e1d7cf276a0e<>res://.godot/imported/hurt.wav-08fd5433deb1626d41a21bb3e29b577d.sample::
+jump.wav::AudioStreamWAV::8958194454413973005::1773652516::1773652531::1::::<><><>0<>0<>f52744d2acb696dbad139e9e161a1a18<>res://.godot/imported/jump.wav-6fd54ef324308786b502bb02484776cb.sample::
+power_up.wav::AudioStreamWAV::8118873343609304933::1773652516::1773652531::1::::<><><>0<>0<>31285e8ebcec0fc0f0285944836c6f6a<>res://.godot/imported/power_up.wav-2a46c4a6313ab2949a806eedcdbf243c.sample::
+tap.wav::AudioStreamWAV::3760056793445171470::1773652516::1773652531::1::::<><><>0<>0<>a78fc6a4c531536ec0267c1ed0416ee2<>res://.godot/imported/tap.wav-13fc2764198467da1f687fc2c119bb43.sample::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/brackeys_platformer_assets/sprites/::1773652568
+coin.png::CompressedTexture2D::923626127612829313::1773652516::1773652519::1::::<><><>0<>0<>cb4af358c5eb91dde89d9357760772cf<>res://.godot/imported/coin.png-68c621929089688d638854c111c851f8.ctex::
+fruit.png::CompressedTexture2D::2649848179975436733::1773652516::1773652519::1::::<><><>0<>0<>c15240e9797ba32afa57d78237cdc39d<>res://.godot/imported/fruit.png-4986361f4c8e360ece57f37f64314178.ctex::
+knight.png::CompressedTexture2D::8296093473163866953::1773652516::1773652519::1::::<><><>0<>0<>d4a1bb190da7ca912aa4fdca2d86bb9d<>res://.godot/imported/knight.png-077281dfa252c2f30414aab157e3aa6b.ctex::
+platforms.png::CompressedTexture2D::4471371572269237660::1773652516::1773652519::1::::<><><>0<>0<>f137281951154fe01ef01b964e16f41f<>res://.godot/imported/platforms.png-25cd528d425da75f0f07dbac999ef211.ctex::
+slime_green.png::CompressedTexture2D::7277960421426736359::1773652517::1773652519::1::::<><><>0<>0<>4d062b1a54e4c2cc76a3fd7aad2bf4f1<>res://.godot/imported/slime_green.png-812e5d212cbb3b5c036f699cc035684c.ctex::
+slime_purple.png::CompressedTexture2D::1885706404872930481::1773652517::1773652519::1::::<><><>0<>0<>91940d3455593fc194242027d3718e77<>res://.godot/imported/slime_purple.png-f571df002512bcbf928a458be6737d5d.ctex::
+world_tileset.png::CompressedTexture2D::7121364703971986565::1773652517::1773652519::1::::<><><>0<>0<>97c62cfbe0b2d23a9600a29a58590644<>res://.godot/imported/world_tileset.png-505bfb8d7dbc5be15b7b5f73cd26d4e6.ctex::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/fonts/::1773652638
+PixelOperator8-Bold.ttf::FontFile::4675728511916864816::1773652552::1773652552::1::::<><><>0<>0<>9b8b53510bfcaff0ec9ca2984ab06678<>res://.godot/imported/PixelOperator8-Bold.ttf-9480e3f3f3fdd285cc33fa0350217f50.fontdata::
+PixelOperator8.ttf::FontFile::1478852164091896697::1773652552::1773652552::1::::<><><>0<>0<>2e99d05c8c8a50170f8e79b9f3bc891e<>res://.godot/imported/PixelOperator8.ttf-5b2f9cb4676b25a00aeb3a3b708a4865.fontdata::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/music/::1773652638
+time_for_adventure.mp3::AudioStreamMP3::2082885653522380698::1773652552::1773652552::1::::<><><>0<>0<>5feb62c69bf8234516e95bc6ec6342ea<>res://.godot/imported/time_for_adventure.mp3-7537bd01a56ec323ec77d19a6e08ac3d.mp3str::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sounds/::1773652553
+coin.wav::AudioStreamWAV::6750816554855794109::1773652552::1773652552::1::::<><><>0<>0<>8693b7e13af8acf5c63d3a5fcd94c524<>res://.godot/imported/coin.wav-658ba6e31691b5606be30ead4438340e.sample::
+explosion.wav::AudioStreamWAV::7975306307748241755::1773652552::1773652553::1::::<><><>0<>0<>92aeeb941d5e557617d9c290b1d322a5<>res://.godot/imported/explosion.wav-c25f65fa77f5dd5740ea3a9a2096a3fb.sample::
+hurt.wav::AudioStreamWAV::3009065746259597403::1773652552::1773652553::1::::<><><>0<>0<>9ac50623e7dc4210bf2e7d22b6a8931d<>res://.godot/imported/hurt.wav-8c32fcc97d72e9309a5285a274681858.sample::
+jump.wav::AudioStreamWAV::4445562835184349485::1773652552::1773652553::1::::<><><>0<>0<>f4405f35e77e617fa0b88861772fe2cc<>res://.godot/imported/jump.wav-51abd588c6de9b87334a4674a62d55d1.sample::
+power_up.wav::AudioStreamWAV::6064446538826885488::1773652552::1773652553::1::::<><><>0<>0<>50e5ee230165f8511d493bfe3fde398a<>res://.godot/imported/power_up.wav-07dd879d515588734a06d289b0ae3ca6.sample::
+tap.wav::AudioStreamWAV::5939511382620257927::1773652552::1773652553::1::::<><><>0<>0<>a3ace3442531e44210372fb1525554fd<>res://.godot/imported/tap.wav-3b50888a81966739310117dd49b0b62e.sample::
+::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sprites/::1773652553
+coin.png::CompressedTexture2D::923626127612829313::1773652552::1773652552::1::::<><><>0<>0<>95cc61087dabcfc454950ecc1b33cf8d<>res://.godot/imported/coin.png-8d7efb094d902330de2ed8737b292638.ctex::
+fruit.png::CompressedTexture2D::7046440775530145537::1773652552::1773652553::1::::<><><>0<>0<>a71c76fa72f8ceda19d8128a5309a45f<>res://.godot/imported/fruit.png-76ea9e58599a96dd873b1d5231c8caba.ctex::
+knight.png::CompressedTexture2D::3300391741942179064::1773652552::1773652553::1::::<><><>0<>0<>655f1061f8a4f3d2b4856e31893d2e1d<>res://.godot/imported/knight.png-d04e2d6c4f1e07cb85e15e39ff567b5d.ctex::
+platforms.png::CompressedTexture2D::3457320488820037718::1773652552::1773652553::1::::<><><>0<>0<>415affbd26f94d36a2ad2939cd174471<>res://.godot/imported/platforms.png-cdb2da0a8fa2167d27c33cf066be2346.ctex::
+slime_green.png::CompressedTexture2D::3376539995358824355::1773652552::1773652553::1::::<><><>0<>0<>7bb50e70a1d4312bd5302257aeb08d32<>res://.godot/imported/slime_green.png-86c0c15c1d908f67a2b156f3f43b027c.ctex::
+slime_purple.png::CompressedTexture2D::4980999331861700300::1773652552::1773652553::1::::<><><>0<>0<>e4ba324a1c8dec3c90d9bdaf41f26e87<>res://.godot/imported/slime_purple.png-f2377820393b4ddff922c9ab481ed098.ctex::
+world_tileset.png::CompressedTexture2D::7121364703971986565::1773652552::1773652552::1::::<><><>0<>0<>b15e6c20c49eae7cbcbf2b42e49540b3<>res://.godot/imported/world_tileset.png-f30ba06c656efca03426872484d1cbc2.ctex::
+::res://Assets/brackeys_platformer_assets/CatUIFree/::1773652568
+::res://Assets/brackeys_platformer_assets/CatUIFree/__MACOSX/::1773652568
+::res://Assets/brackeys_platformer_assets/CatUIFree/__MACOSX/CatUIFree/::1773652568
+._free.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>e7824a76281f97cdc4eb0f515b88dc68<>::
+::res://Assets/brackeys_platformer_assets/CatUIFree/CatUIFree/::1773652568
+free.png::CompressedTexture2D::540919907654147485::1773652517::1773652520::1::::<><><>0<>0<>5484a2adc9d31e686d91e902ca6c3e47<>res://.godot/imported/free.png-b69270f9e5634cb33c4fadfb900e1fe6.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/::1773652567
+License.txt::TextFile::-1::1773652517::0::1::::<><><>0<>0<><>::
+Patreon.txt::TextFile::-1::1773652517::0::1::::<><><>0<>0<><>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/::1773652568
+._License.txt::TextFile::-1::1773652517::0::1::::<><><>0<>0<><>::
+._Patreon.txt::TextFile::-1::1773652517::0::1::::<><><>0<>0<><>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/::1773652569
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 1/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>7c86b4a0a0fad9d28c04ce7c24c8a5bd<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>493c05fe3bb564b0d510a78181c52533<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>d640ec84a78ba93d67f4724f65b752bb<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>d9e96f5629cabd73946b59d3f778b1d8<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 2/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>d12fbac9fe886b2430b37e1a6121f317<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>55f047cadb337ba361010c2aca4b4a64<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>e64befac80d1b3961622724a933d399b<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>3e0fe7525b484947d7555ef0235b0a36<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 3/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>d907e61a27f2420d315fcdfc6f0a3fa1<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>1bd17ea5d2716ad48ac3b3ae87986c41<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>65fa2f14a2045ae7191cd567d88fefda<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>b6c92569d846f1bc68c19517f580acdf<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 4/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>d8d28cf7c318f84ef504ab72ffa53f13<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>710bc63430c15419e2c9e4e5740bc3d0<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>59ecaa306b53b5724ab35d3368ec1fb4<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>fcd3e12b320566078abf437d8f7f6d64<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 5/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>f1027616f9d56935a35aeb39b5f66a18<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>e5208e462348ef19938bfec8b93ead4d<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>7309b67737f6bcfda0245f57bfa741ab<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>af47daf3a8ad261cd4fb496d88eeb37a<>::
+._5.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>5753142592a6391570593349e64fe226<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 6/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>fcb9854505c52367c253ea1bb8b3ef08<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>82ae0188bb198e8c8191e97e3cba3551<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>712dc7ea372f5ca6c5a7887d61b66311<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>7b48b51f4d0455c197cb626edf124519<>::
+._5.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>32297c8ddea6cf608c52caf1fed1142f<>::
+._6.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>122a5b4ef2da4b524b96cb897d96c513<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 7/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>1c489ab89d73c2351d31e4adefeb6cda<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>423a3cdc442bc2fe35e6596d245a4204<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>09ae13bd5c37fc9475dbc72386d14c89<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>3cf4ca1542d831955b034cd6a6812d07<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 8/::1773652569
+._1.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>eb684f24d0de0792ccbbfebd9d3cd5f0<>::
+._2.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>303a53ebd5d1703761fdb4c3d9ce90ae<>::
+._3.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>210a0160104cba03c4698200047ef82c<>::
+._4.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>c0d99fff21f71b7cb17d5881ebaf93c6<>::
+._5.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>b3e60f882440e5ca3af8bf2badb58644<>::
+._6.png::::-1::1773652517::1773652517::0::::<><><>0<>0<>e218b97ce0068a2d201150d891fda7b3<>::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/::1773652568
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/::1773652568
+1.png::CompressedTexture2D::8155920697382252683::1773652517::1773652520::1::::<><><>0<>0<>3bdcb137ff5744b9ee6b042faa166fec<>res://.godot/imported/1.png-ca86c8ced54cfda1fb1af0fb22b1d0c6.ctex::
+2.png::CompressedTexture2D::8572642557906976738::1773652517::1773652520::1::::<><><>0<>0<>033686f4608ff010416a9887bd1dc598<>res://.godot/imported/2.png-2cb86b995982c339a03ca9e2de42f39b.ctex::
+3.png::CompressedTexture2D::7651587187661289734::1773652517::1773652520::1::::<><><>0<>0<>acb732d2faff1e2068a8af0c7b51ce80<>res://.godot/imported/3.png-38e3c4a544ce51ba4d690132e8847792.ctex::
+4.png::CompressedTexture2D::7501743018998646800::1773652517::1773652520::1::::<><><>0<>0<>ab2b952b6d1f211a3ae8a8b11d0efd9a<>res://.godot/imported/4.png-fa81726852ffc25fcc0ad9ef8684885c.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/::1773652568
+1.png::CompressedTexture2D::4031543811376648501::1773652517::1773652520::1::::<><><>0<>0<>b8b4523ea14aa1c7aeace2eb2c4722e4<>res://.godot/imported/1.png-518e36ac1ed8c0a8af19a69014b96d2c.ctex::
+2.png::CompressedTexture2D::4168030532940949610::1773652517::1773652520::1::::<><><>0<>0<>7bb36f910836d90b5a2859582070d11e<>res://.godot/imported/2.png-95de23d7723d42820e354c7d016b3c39.ctex::
+3.png::CompressedTexture2D::4135817701912309681::1773652517::1773652520::1::::<><><>0<>0<>616566d411538c4c02ab292a08582e05<>res://.godot/imported/3.png-fd9814e4d9a964a204d61a98fac58ec3.ctex::
+4.png::CompressedTexture2D::3300676473184826693::1773652517::1773652520::1::::<><><>0<>0<>9ec3ac0d1b4074efb3880ccb8129d381<>res://.godot/imported/4.png-82f30107ab3676139b135b6a519323a5.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/::1773652568
+1.png::CompressedTexture2D::4742864463572697143::1773652517::1773652520::1::::<><><>0<>0<>34e6c96c18b1e6b58d87bcb9696db9be<>res://.godot/imported/1.png-9012ee1a83db9d07e6feae3410a042de.ctex::
+2.png::CompressedTexture2D::6448404013923100392::1773652517::1773652520::1::::<><><>0<>0<>475806293eaa52fa3a4700e15d108324<>res://.godot/imported/2.png-c5591abf087d9f9c0a6665245553c0cf.ctex::
+3.png::CompressedTexture2D::3557507607200220432::1773652517::1773652520::1::::<><><>0<>0<>738b9e85f89f3f3fe2b2b4b48a3bfe70<>res://.godot/imported/3.png-e16f604597500179f22ea3e04c4ffd0f.ctex::
+4.png::CompressedTexture2D::3874201906407346887::1773652517::1773652520::1::::<><><>0<>0<>1d0923df5bc09f52f4c88e53fbdc1a49<>res://.godot/imported/4.png-e21c3ea62df45f93afa75b05a4193dd3.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 4/::1773652569
+1.png::CompressedTexture2D::8665195486673481410::1773652517::1773652520::1::::<><><>0<>0<>56a01fd4dec7d9851e1bc0d96453ae47<>res://.godot/imported/1.png-ff9bf37f44aafe20fdad594d23180fb6.ctex::
+2.png::CompressedTexture2D::7572244332699119529::1773652517::1773652520::1::::<><><>0<>0<>44fe1415a94fdd8c06090776dfdf0a44<>res://.godot/imported/2.png-593f9ca510dbb8f2731a3e854d02e85d.ctex::
+3.png::CompressedTexture2D::5294873473145104664::1773652517::1773652520::1::::<><><>0<>0<>6a924d24fb9c6b1c056daacc833e406c<>res://.godot/imported/3.png-fd34792acb048ae5be4ff6acc303500b.ctex::
+4.png::CompressedTexture2D::1984309248057799574::1773652517::1773652520::1::::<><><>0<>0<>93b1482f98d7ef5465c1d55f54eee074<>res://.godot/imported/4.png-557ff2c38b7e57615a7608bb0b9b7b0e.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/::1773652569
+1.png::CompressedTexture2D::5330441020073103428::1773652517::1773652520::1::::<><><>0<>0<>7300ea15f7016098104adf682e81f374<>res://.godot/imported/1.png-ab569a7831d2dd7968c5ea73b6dd6e83.ctex::
+2.png::CompressedTexture2D::3796609510276894595::1773652517::1773652520::1::::<><><>0<>0<>555ad00d7ed5d2d79d17ed5007cd1278<>res://.godot/imported/2.png-7a01c7059352012d99c4e1bb0430c980.ctex::
+3.png::CompressedTexture2D::1067497775548235057::1773652517::1773652520::1::::<><><>0<>0<>5368ddd7f3bb9611d9294ef3785f861d<>res://.godot/imported/3.png-790d8970f394bce0a50b20697ee045ae.ctex::
+4.png::CompressedTexture2D::7000112730803038004::1773652517::1773652520::1::::<><><>0<>0<>3a7d908d63c2a66d8986c18c55a21185<>res://.godot/imported/4.png-ead01ea808b2e2bd0d98918e27a1ca2e.ctex::
+5.png::CompressedTexture2D::8920662341264463240::1773652517::1773652520::1::::<><><>0<>0<>426e5ebd549f589b577a4061edd33d15<>res://.godot/imported/5.png-4e6c5479fb9fd7b5c40fc97d5932ceba.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/::1773652569
+1.png::CompressedTexture2D::589885389676965724::1773652517::1773652520::1::::<><><>0<>0<>7d31319f200186f1860568cd95c8d402<>res://.godot/imported/1.png-2bf44bee3e7c87c17ec2b97ac515c23e.ctex::
+2.png::CompressedTexture2D::3555554060602577213::1773652517::1773652520::1::::<><><>0<>0<>8270726bfbd72d434fb10934c53e6c88<>res://.godot/imported/2.png-63b9c832c4bbff59eb786f36320ecb7e.ctex::
+3.png::CompressedTexture2D::5232670363196817802::1773652517::1773652520::1::::<><><>0<>0<>e7f6200144ad40201a22b32a9ad485c7<>res://.godot/imported/3.png-150c36ccb6e3cb162e2747c6daf1a43d.ctex::
+4.png::CompressedTexture2D::8492187293645170323::1773652517::1773652520::1::::<><><>0<>0<>81e430eb3dee0b4c720bf4250d49b45e<>res://.godot/imported/4.png-2d01b40e7357f6cadee1a2eeda360b3d.ctex::
+5.png::CompressedTexture2D::7232976801039278135::1773652517::1773652520::1::::<><><>0<>0<>d4011f987eea2d744412bfeed0a023f2<>res://.godot/imported/5.png-9c3eeaaedffc29ac7807901a13f626d4.ctex::
+6.png::CompressedTexture2D::6695829797048534117::1773652517::1773652520::1::::<><><>0<>0<>67e5f57972488220b23f791f8dca115d<>res://.godot/imported/6.png-9d72b49271f704a323f983866c61d79c.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 7/::1773652569
+1.png::CompressedTexture2D::5645672511632926057::1773652517::1773652520::1::::<><><>0<>0<>47ad18f5cd928eb4208fcf43744d5ea5<>res://.godot/imported/1.png-3e5758a023353d741d5bdb879e136a4d.ctex::
+2.png::CompressedTexture2D::514233218612304505::1773652517::1773652520::1::::<><><>0<>0<>931efcafe4ac4de8f4f9fba060682a47<>res://.godot/imported/2.png-d0687f97efc633e07161c93d8512c5ef.ctex::
+3.png::CompressedTexture2D::6187095591749638802::1773652517::1773652520::1::::<><><>0<>0<>d71d65d546401f489c640cb402c1059c<>res://.godot/imported/3.png-73f22216cbb6cb19bfedecaaf14cb4a8.ctex::
+4.png::CompressedTexture2D::4355040505956205175::1773652517::1773652520::1::::<><><>0<>0<>9f68a279abb287830227df377b1e2f41<>res://.godot/imported/4.png-4f081812d704a8c56925b64181e5f11a.ctex::
+::res://Assets/brackeys_platformer_assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/::1773652569
+1.png::CompressedTexture2D::2649453428083203908::1773652517::1773652520::1::::<><><>0<>0<>2aaa4a32c8e0d40a4395e7b9e8099da7<>res://.godot/imported/1.png-5f5b721fd0137bf550f252aa92ee9bfe.ctex::
+2.png::CompressedTexture2D::1961146571227915378::1773652517::1773652522::1::::<><><>0<>0<>0e4c257d2db8358167ec1217a397d720<>res://.godot/imported/2.png-06f4dd640dc973beb8b1273246e65ddc.ctex::
+3.png::CompressedTexture2D::4821164837237700774::1773652517::1773652522::1::::<><><>0<>0<>9c4527abe39b59550bac8af4432bcf07<>res://.godot/imported/3.png-8fb6789e02b865e816d045e655ad9af1.ctex::
+4.png::CompressedTexture2D::3232881625116848614::1773652517::1773652522::1::::<><><>0<>0<>88f03382df9ae366967d6db4fd462754<>res://.godot/imported/4.png-62011ed26c8ad4cf568e199e29ecbe6c.ctex::
+5.png::CompressedTexture2D::6061152452875929770::1773652517::1773652522::1::::<><><>0<>0<>fb3abc6b56091fd5768dc43fdbfb6b88<>res://.godot/imported/5.png-f07729dd219e2f3484f17e6ac5de1a91.ctex::
+6.png::CompressedTexture2D::3519214369969640361::1773652517::1773652522::1::::<><><>0<>0<>5d7be4487733946ad686fbe146188b56<>res://.godot/imported/6.png-5ed0ce5785e93e1eb6d434e8ff77e6de.ctex::
+::res://Assets/brackeys_platformer_assets/FreeCatCharacterAnimations/::1773652568
+::res://Assets/brackeys_platformer_assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/::1773652568
+1_Cat_Idle-Sheet.png::CompressedTexture2D::3959419809252679078::1773652517::1773652522::1::::<><><>0<>0<>fff85a09acb830bb010370c35888337b<>res://.godot/imported/1_Cat_Idle-Sheet.png-4b1159ce7020b61ea1220035cbd927ea.ctex::
+2_Cat_Run-Sheet.png::CompressedTexture2D::3756224913275199803::1773652517::1773652522::1::::<><><>0<>0<>b1876b8b56901e8c9ab2ccb76caea927<>res://.godot/imported/2_Cat_Run-Sheet.png-18d5f70987baa79168991a28fd626d10.ctex::
+3_Cat_Jump-Sheet.png::CompressedTexture2D::206689911032236279::1773652517::1773652522::1::::<><><>0<>0<>7b4d32d128d51d69fbd43b6b65b3900d<>res://.godot/imported/3_Cat_Jump-Sheet.png-51b092c2be134b2f4a16d329cc3d2e5c.ctex::
+4_Cat_Fall-Sheet.png::CompressedTexture2D::2615439205372052543::1773652517::1773652522::1::::<><><>0<>0<>f4e2e499f7542d785dfc00f38a46d787<>res://.godot/imported/4_Cat_Fall-Sheet.png-cf45bbed7521fb874f814b688738886f.ctex::
+Contact.txt::TextFile::-1::1773652517::0::1::::<><><>0<>0<><>::
+License.txt::TextFile::-1::1773652517::0::1::::<><><>0<>0<><>::
+mountain_depth_z_2.png::CompressedTexture2D::212470373442522963::1773652517::1773652522::1::::<><><>0<>0<>5b3ac2ee80ff21c91c9bd090479950e8<>res://.godot/imported/mountain_depth_z_2.png-6375953175c1f0dbeeb31cdb19c904df.ctex::
+::res://Assets/brackeys_platformer_assets/Isometric Geo Pack v1.0/::1773652567
+256x192 SlopesAndStairs 01.png::CompressedTexture2D::579153339866454743::1773652517::1773652521::1::::<><><>0<>0<>7fb46d5bdb9b8fdf553ab92f22522f75<>res://.godot/imported/256x192 SlopesAndStairs 01.png-da4e983184e14c0771f614e3d27280ea.ctex::
+256x192 SlopesAndStairs 02.png::CompressedTexture2D::2647973330029854244::1773652517::1773652521::1::::<><><>0<>0<>08993c6d4292201d39a7386070dd1f95<>res://.godot/imported/256x192 SlopesAndStairs 02.png-61940c4c2460c0bc107c7b99a63c2cc1.ctex::
+256x192 SlopesAndStairs 03.png::CompressedTexture2D::3710867523359736438::1773652517::1773652521::1::::<><><>0<>0<>229a63df544fba71c088783006019191<>res://.godot/imported/256x192 SlopesAndStairs 03.png-a421fbc220d46e78e979c2ca981c6763.ctex::
+256x192 SlopesAndStairs 04.png::CompressedTexture2D::4276112925542039162::1773652517::1773652521::1::::<><><>0<>0<>fce117d015d6c87bdac777830d7fc716<>res://.godot/imported/256x192 SlopesAndStairs 04.png-e4da412db1ea0c9c3731ec637e569b12.ctex::
+256x192 SlopesAndStairs 05.png::CompressedTexture2D::1032152911105530638::1773652517::1773652521::1::::<><><>0<>0<>c6af0716f8564dd8416359c0359d6163<>res://.godot/imported/256x192 SlopesAndStairs 05.png-7801d56c1ab3028a1e30feaa1e72498e.ctex::
+256x192 SlopesAndStairs 06.png::CompressedTexture2D::5423522013353275500::1773652517::1773652522::1::::<><><>0<>0<>fa76ff9161457dd7d1ac3f967396ddd7<>res://.godot/imported/256x192 SlopesAndStairs 06.png-f8ea48aebac11c50a95cd268bb3ad462.ctex::
+256x192 Tiles.png::CompressedTexture2D::2730568015717675544::1773652517::1773652522::1::::<><><>0<>0<>d6f78cf583d02cd75180747c411d6bac<>res://.godot/imported/256x192 Tiles.png-15b45a6536eaee9b6865561b0e62ed75.ctex::
+256x256 SlopesAndStairs 01.png::CompressedTexture2D::466900645493742941::1773652517::1773652521::1::::<><><>0<>0<>982712e2c50ed6267f75cb1b168154c7<>res://.godot/imported/256x256 SlopesAndStairs 01.png-57e2efd836c9806f9fc909096be5a72a.ctex::
+256x256 SlopesAndStairs 02.png::CompressedTexture2D::1083279829161783043::1773652517::1773652521::1::::<><><>0<>0<>1117fe616c05325d1e4f481788d8e1b1<>res://.godot/imported/256x256 SlopesAndStairs 02.png-5b91b02e18bfe410cbff7905ce94a128.ctex::
+256x256 SlopesAndStairs 03.png::CompressedTexture2D::6760536267056331310::1773652517::1773652522::1::::<><><>0<>0<>5afd4717b49b0e170a1ea897e0629d47<>res://.godot/imported/256x256 SlopesAndStairs 03.png-a1cf0001612a00b9c178530ff4f16815.ctex::
+256x256 SlopesAndStairs 04.png::CompressedTexture2D::2577292231420207630::1773652517::1773652522::1::::<><><>0<>0<>a8aae61be7f69b23dddda233d56f0b43<>res://.godot/imported/256x256 SlopesAndStairs 04.png-c48bc8e69c7516f11011fb29d09c364b.ctex::
+256x256 SlopesAndStairs 05.png::CompressedTexture2D::1488330787740541744::1773652517::1773652522::1::::<><><>0<>0<>be4c23cc9a8c8186d91aed25a1b15211<>res://.godot/imported/256x256 SlopesAndStairs 05.png-cfd0dff123c685bafde37725f366bc27.ctex::
+256x256 SlopesAndStairs 06.png::CompressedTexture2D::2700615891059102873::1773652517::1773652522::1::::<><><>0<>0<>8ab9dbaedd42959b94967571c0ac500b<>res://.godot/imported/256x256 SlopesAndStairs 06.png-f4848cd4d6ab317c9ea99ec4dc3c9fc3.ctex::
+256x256 Tiles.png::CompressedTexture2D::7899652074251710320::1773652517::1773652523::1::::<><><>0<>0<>e739934272189caeea653b869f21691a<>res://.godot/imported/256x256 Tiles.png-134d681dea47eb6727376f0561b4eefc.ctex::
+512x512 Crystals Transparent.png::CompressedTexture2D::8896760920588080056::1773652517::1773652531::1::::<><><>0<>0<>4409e132087667326dd0db20094f26b2<>res://.godot/imported/512x512 Crystals Transparent.png-7bf87adc4ccedc36359ffb66f6c8c141.ctex::
+512x512 Rocks.png::CompressedTexture2D::4699404585472891890::1773652517::1773652524::1::::<><><>0<>0<>795e629cc159b54ae398822b6052072a<>res://.godot/imported/512x512 Rocks.png-7cb666eced9cfe00b4a6bc9b9fc17e30.ctex::
+512x1024 Trees.png::CompressedTexture2D::3111625864779185186::1773652517::1773652524::1::::<><><>0<>0<>0cae670a4f49a93508f68530ac61ad50<>res://.godot/imported/512x1024 Trees.png-da65872d44ea1999c25573f236136b83.ctex::
+1024x512 Objects01.png::CompressedTexture2D::1756601160249305092::1773652517::1773652523::1::::<><><>0<>0<>34b18580d442d8ec96e655a69c1eccb2<>res://.godot/imported/1024x512 Objects01.png-dde894e63f52d11ab04f6e2835191c90.ctex::
+goldensoundlabs-shimmy-294651.ogg::AudioStreamOggVorbis::2991543704839869574::1773652517::1773652519::1::::<><><>0<>0<>e40dd26141d0c1f8387d99718c95d414<>res://.godot/imported/goldensoundlabs-shimmy-294651.ogg-9caba69e1b431e3640a3947d907fb47e.oggvorbisstr::
+::res://Assets/brackeys_platformer_assets/Isometric Geo Pack v1.0/Parallax Cave/::1773652568
+1.png::CompressedTexture2D::1451325262468876280::1773652517::1773652522::1::::<><><>0<>0<>d377d5e6b3e4276c6a64c3048f47b0ad<>res://.godot/imported/1.png-02ba7bc6dd0e42c1bef62f0204452fdc.ctex::
+2.png::CompressedTexture2D::3114047769391651239::1773652517::1773652522::1::::<><><>0<>0<>4dc7e62a11b2fe9ba4c1641673cac649<>res://.godot/imported/2.png-109582b047dce4d33ab46d5e6bac9f55.ctex::
+3fx.png::CompressedTexture2D::164434086316867447::1773652517::1773652522::1::::<><><>0<>0<>3fe786dbf5556df781ca5a34993251dd<>res://.godot/imported/3fx.png-e7f01f2df01d714d09d7ef33ab018715.ctex::
+4.png::CompressedTexture2D::6574589687695316694::1773652517::1773652522::1::::<><><>0<>0<>293c7e2a637356c08703a26a2288eec8<>res://.godot/imported/4.png-ddf7901a8b1d71da4884426ec846a3b0.ctex::
+5.png::CompressedTexture2D::1086483140883023213::1773652517::1773652522::1::::<><><>0<>0<>daaff352d49d469ad0ab6f3785b2ba5b<>res://.godot/imported/5.png-5a6445f11e0777fd35fe575183cb9cfc.ctex::
+6fx.png::CompressedTexture2D::7060292145398751824::1773652517::1773652523::1::::<><><>0<>0<>5b3a78470d3a5133e347bb4859a2192c<>res://.godot/imported/6fx.png-172779199639053dbdfc858416f38bcd.ctex::
+7.png::CompressedTexture2D::4210315791491537839::1773652517::1773652522::1::::<><><>0<>0<>0eca300208cf6b38b45556308fbde03a<>res://.godot/imported/7.png-d2e8ecd3ab9ed3d23ab8aac282add324.ctex::
+8fx.png::CompressedTexture2D::7695885362644867241::1773652517::1773652523::1::::<><><>0<>0<>dab3d927e6f0f81c086dbe6dbe397614<>res://.godot/imported/8fx.png-7f576fc2b9e1d6442ed375b64f4d6eff.ctex::
+9.png::CompressedTexture2D::2177037035164595161::1773652517::1773652521::1::::<><><>0<>0<>6d80ccea7c55c2ddfdc64f5031ba7312<>res://.godot/imported/9.png-f36e7d2ab1d010005fed5d885db4d20e.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/::1773652568
+Enviroment.png::CompressedTexture2D::6887676695867272933::1773652518::1773652520::1::::<><><>0<>0<>d5efa52aa8ef0c559237008eb5eba9ee<>res://.godot/imported/Enviroment.png-f657e401163e55a01321c3a34ad201a6.ctex::
+Read me.txt::TextFile::-1::1773652518::0::1::::<><><>0<>0<><>::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Backgrounds/::1773652568
+Background Extended Green.png::CompressedTexture2D::3719005919316724338::1773652517::1773652519::1::::<><><>0<>0<>db809426c35ca284dae2a43d610c7c47<>res://.godot/imported/Background Extended Green.png-f2e560f709e21827a1fae57bd519798c.ctex::
+Background Extended.png::CompressedTexture2D::4413266168653999404::1773652518::1773652519::1::::<><><>0<>0<>d6d5571e43587cd82d28fb6674af3a9d<>res://.godot/imported/Background Extended.png-3355b208a9651dd0b3b7826dcc08d523.ctex::
+Midleground Extended Green.png::CompressedTexture2D::5865611747784799520::1773652518::1773652519::1::::<><><>0<>0<>c7cc41592bebfc74efc0e2506acc07e8<>res://.godot/imported/Midleground Extended Green.png-64c5519668784363cd7e8c70bc5efbda.ctex::
+Midleground Extended.png::CompressedTexture2D::514875728211676958::1773652518::1773652519::1::::<><><>0<>0<>17261f283fc0527a7b6cead44dda6b6f<>res://.godot/imported/Midleground Extended.png-777feb347c907a723a559d0d5545d1dd.ctex::
+Midleground.png::CompressedTexture2D::1758147614251534277::1773652518::1773652519::1::::<><><>0<>0<>1c75db15ecb5987bc78796a599b75656<>res://.godot/imported/Midleground.png-85b5505353aff0793a525c8e469931e5.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Bat/::1773652568
+Bat_flying_strip22.png::CompressedTexture2D::7200676405160997101::1773652518::1773652519::1::::<><><>0<>0<>a3a16192f38b73d9411b1fd12ddaab4b<>res://.godot/imported/Bat_flying_strip22.png-1dcb656f9ca94836b3d70a5be2c2e6da.ctex::
+Bat_sleeping_strip31.png::CompressedTexture2D::2575135870776690232::1773652518::1773652519::1::::<><><>0<>0<>e1d1981ab427fddda9401940dd4102e2<>res://.godot/imported/Bat_sleeping_strip31.png-3ea876946e019f6528eedcf9bf83ed5f.ctex::
+Minibat_strip6.png::CompressedTexture2D::4327257802204940007::1773652518::1773652519::1::::<><><>0<>0<>5208ccd60df82e11d3419ce53ac8a846<>res://.godot/imported/Minibat_strip6.png-c020342220e5684151063c757bf545ba.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Bushes and Seaweed/::1773652568
+Bush_strip60.png::CompressedTexture2D::5396058019117761938::1773652518::1773652519::1::::<><><>0<>0<>552ee737ed508ed82d7093072b15fd91<>res://.godot/imported/Bush_strip60.png-90e259d4c036c3a4b734f8065e0e5b0b.ctex::
+seaweed_strip60.png::CompressedTexture2D::8554631863122256684::1773652518::1773652519::1::::<><><>0<>0<>59cbb285afbc3857253a11fe4356fbcc<>res://.godot/imported/seaweed_strip60.png-47ef29141bc607762a9858be33e79282.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Collectables/::1773652568
+gold_coin_strip4.png::CompressedTexture2D::9210093816449306121::1773652518::1773652519::1::::<><><>0<>0<>cc4ce5cab2ed4d3a65b39027c9f3374d<>res://.godot/imported/gold_coin_strip4.png-da89f7bd7596428a84169cc4cd0b997a.ctex::
+Heart_strip2.png::CompressedTexture2D::962878534914283812::1773652518::1773652519::1::::<><><>0<>0<>11e5957b9dc44eb789d6d99374161a02<>res://.godot/imported/Heart_strip2.png-52122c6fb96b69d646ad3c000d540a5e.ctex::
+silver_coin_strip4.png::CompressedTexture2D::7747153301596560994::1773652518::1773652519::1::::<><><>0<>0<>8e9b771bc217bc48a1cbc1fd12dd8cf4<>res://.godot/imported/silver_coin_strip4.png-d72b94872e39c49e79c7c12ee95bcfa2.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Fire and Smoke/::1773652568
+Fire_burn_strip104.png::CompressedTexture2D::2029066470234420900::1773652518::1773652519::1::::<><><>0<>0<>bde3e03ef8d6e52547fc8d1efe5031eb<>res://.godot/imported/Fire_burn_strip104.png-12d4b729f085736c5f2227f7279cbbf3.ctex::
+Fire_loop_strip190.png::CompressedTexture2D::66125094831826031::1773652518::1773652519::1::::<><><>0<>0<>fd8a95a4082251690190ab0e900151d4<>res://.godot/imported/Fire_loop_strip190.png-9b850b7b26a32120d0041c8110035d9a.ctex::
+smoke_strip110.png::CompressedTexture2D::4896041222347075033::1773652518::1773652519::1::::<><><>0<>0<>3fafd274a3f3150466d11bd61ac35ade<>res://.godot/imported/smoke_strip110.png-71e0f0bdc86f26f4c9ff05b56091d49f.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Fish/::1773652568
+Fish2_strip7.png::CompressedTexture2D::6142819898053448476::1773652518::1773652519::1::::<><><>0<>0<>7923002e02e0886a2dffbac6f98bf2c2<>res://.godot/imported/Fish2_strip7.png-7cc5bc4a920d992359228fa5d5b7fbe5.ctex::
+Fish_strip4.png::CompressedTexture2D::8421488437222941354::1773652518::1773652519::1::::<><><>0<>0<>fb651d5e6170b5104dd230d59b4946da<>res://.godot/imported/Fish_strip4.png-1949d0c8a64000b073dfbb5e63ac0975.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Frog/::1773652568
+BROWNfrog_blinking_strip10.png::CompressedTexture2D::2784265252097875123::1773652518::1773652519::1::::<><><>0<>0<>79b8f1a38e4786bd2b47286eca5dd57b<>res://.godot/imported/BROWNfrog_blinking_strip10.png-36214cd43472bf00900a8adf27f40151.ctex::
+BROWNFrog_idle_strip26.png::CompressedTexture2D::5250339284270006962::1773652518::1773652519::1::::<><><>0<>0<>9daf84a05506a4b23cf91fd088eac4ad<>res://.godot/imported/BROWNFrog_idle_strip26.png-a91e02463c9d8a3823b93cb73f0709aa.ctex::
+BROWNFrog_jumping_strip14.png::CompressedTexture2D::124585770065882066::1773652518::1773652519::1::::<><><>0<>0<>7d3d66cd30913585f2266131d111644a<>res://.godot/imported/BROWNFrog_jumping_strip14.png-6a8568b88dcfd2926a1bd4ed66638eb3.ctex::
+frog_blinking_strip10.png::CompressedTexture2D::629358106945077767::1773652518::1773652519::1::::<><><>0<>0<>e342418c96bffe331403889a998aecf6<>res://.godot/imported/frog_blinking_strip10.png-4f273f54bc4d9853538f4b301a924ef9.ctex::
+Frog_idle_strip26.png::CompressedTexture2D::313607764590486362::1773652518::1773652519::1::::<><><>0<>0<>0e384c3fcefbd759e977d2a3ea807425<>res://.godot/imported/Frog_idle_strip26.png-3f0265b70dc32646171018c00d3ccbb6.ctex::
+Frog_jumping_strip14.png::CompressedTexture2D::8734776077864298482::1773652518::1773652519::1::::<><><>0<>0<>90ebfb268fda09fe53ab9eedc5ea94be<>res://.godot/imported/Frog_jumping_strip14.png-3d84bd119149269def08b3c3759627f9.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Old versions/::1773652568
+bat_flying2_strip8.png::CompressedTexture2D::2397684924303837866::1773652518::1773652519::1::::<><><>0<>0<>5f7e71e9feb23ff9bd5163293310c97d<>res://.godot/imported/bat_flying2_strip8.png-c00065415652e52d892d5f4a3ac37242.ctex::
+bat_flying3_strip8.png::CompressedTexture2D::4949516418722111034::1773652518::1773652519::1::::<><><>0<>0<>5a73c262239baa4c0e59c9ff095c7459<>res://.godot/imported/bat_flying3_strip8.png-3ce08421f90c95a3231bcffd1eb0bb0a.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Snake/::1773652568
+BLUESnake_strip7.png::CompressedTexture2D::7485906789317047064::1773652518::1773652519::1::::<><><>0<>0<>5eb007909a5b03a05d5fb181ce1db72b<>res://.godot/imported/BLUESnake_strip7.png-0a085063a4bfc91b3ad6d25db11236ca.ctex::
+GREENSnake_strip7.png::CompressedTexture2D::6457342071499104018::1773652518::1773652519::1::::<><><>0<>0<>0fa1ab9e3219f340f4e0c1e5aa541145<>res://.godot/imported/GREENSnake_strip7.png-e5c0e39db8f950943c103ddf95ec1754.ctex::
+REDSnake_strip7.png::CompressedTexture2D::7623802020038053234::1773652518::1773652519::1::::<><><>0<>0<>c6798b95163bc8e2836e34ed91c35fe8<>res://.godot/imported/REDSnake_strip7.png-f8ffecd09e23138b7afc8e1c3b3fc91e.ctex::
+Snake_strip6.png::CompressedTexture2D::3272538014732748565::1773652518::1773652519::1::::<><><>0<>0<>0dcceab80102086c7751654396ddd4a5<>res://.godot/imported/Snake_strip6.png-8b4060577e4db369d127118263c42533.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Tree/::1773652568
+Tree_strip120.png::CompressedTexture2D::2399353255077065835::1773652518::1773652522::1::::<><><>0<>0<>f5a55fed04a478af45d0892721250ef5<>res://.godot/imported/Tree_strip120.png-96a93b962ee6088645932b2e3efb6b92.ctex::
+::res://Assets/brackeys_platformer_assets/Kauzz Forest Tiles/Water/::1773652568
+bubble_strip6.png::CompressedTexture2D::7128850871100264145::1773652518::1773652520::1::::<><><>0<>0<>09e67ce0631461c54b545833474230fd<>res://.godot/imported/bubble_strip6.png-c0e4da73d66f0662afa66008f3c07bd8.ctex::
+Water_swamp_strip60.png::CompressedTexture2D::3847244266010145416::1773652518::1773652520::1::::<><><>0<>0<>7f6e7c24377c28f5763ace7604403f66<>res://.godot/imported/Water_swamp_strip60.png-ca54839b1800dc3c0929d3a7b7004460.ctex::
+Water_waves_strip60.png::CompressedTexture2D::1678099533574642489::1773652518::1773652520::1::::<><><>0<>0<>dfa1166e061f93e5b774c4217dac8cf9<>res://.godot/imported/Water_waves_strip60.png-65dd902895f947343eb481e2f58b0d94.ctex::
+::res://Assets/brackeys_platformer_assets/Pixel Valley Revamp/::1773652568
+Background.png::CompressedTexture2D::5054199952627827494::1773652518::1773652520::1::::<><><>0<>0<>eadea07f3075094e6ccaa675772c4943<>res://.godot/imported/Background.png-2050ff47ca508d40a2642aee4b1c0219.ctex::
+Bush - 60F.png::CompressedTexture2D::5391354132921879062::1773652518::1773652520::1::::<><><>0<>0<>e3d039bd76837350cfda3534cb2cf232<>res://.godot/imported/Bush - 60F.png-d99755a11e89f1059e35df3e3dcc53fe.ctex::
+Coin - 12x12 - 4F.png::CompressedTexture2D::7328481402088620415::1773652518::1773652520::1::::<><><>0<>0<>2816bb38d6da59d6eb19e08edb0ee2e8<>res://.godot/imported/Coin - 12x12 - 4F.png-7e0afc70da58ee42d5920241a541b2bb.ctex::
+Coin - 32x32 - 9F.png::CompressedTexture2D::4211036011257187171::1773652518::1773652520::1::::<><><>0<>0<>c806055863012765144b53bd8da634ca<>res://.godot/imported/Coin - 32x32 - 9F.png-f1140b0db7304d3ce5a59e57852734c9.ctex::
+Enviroment.png::CompressedTexture2D::3919577296765443359::1773652518::1773652520::1::::<><><>0<>0<>ceaefe881723fc5c7bcc133ad67525fa<>res://.godot/imported/Enviroment.png-d341507b0411b67a44059eb02b261201.ctex::
+Fish - 7F.png::CompressedTexture2D::2099704748571448498::1773652518::1773652520::1::::<><><>0<>0<>a2a0c160397c7886e9545c791cb3d28f<>res://.godot/imported/Fish - 7F.png-12e9175d655e965af2c4597e589ff005.ctex::
+Frog - 14F.png::CompressedTexture2D::4925456214065103619::1773652518::1773652520::1::::<><><>0<>0<>7e8e777549d8045d6456e102571337ae<>res://.godot/imported/Frog - 14F.png-1f2c0b89d3b3f96ae02ff460bf47e981.ctex::
+Midleground.png::CompressedTexture2D::5122402918760018555::1773652518::1773652520::1::::<><><>0<>0<>e9f49fd4d37cc1cda00e9f2c91e93301<>res://.godot/imported/Midleground.png-017ecde9ce9c606c628bde634c1a24cc.ctex::
+Pine - 60F.png::CompressedTexture2D::8239733962292069181::1773652518::1773652520::1::::<><><>0<>0<>5d2bfc4d2ee7536c8a4cc4d82cc1af1d<>res://.godot/imported/Pine - 60F.png-fd39424f9509910f62c2b4055121d211.ctex::
+Pine II - 60F.png::CompressedTexture2D::5407540619954973836::1773652518::1773652521::1::::<><><>0<>0<>27b385aea984ee97c95084a6865c6cbd<>res://.godot/imported/Pine II - 60F.png-5e5ba4228070a3ac7ae5d1d2739321de.ctex::
+Snake - 6F.png::CompressedTexture2D::1160240582226519301::1773652518::1773652520::1::::<><><>0<>0<>f9a14abed06d1acac7b02eab296386e5<>res://.godot/imported/Snake - 6F.png-0dddbfca4c1e9e8223ccfe1ee05b7edc.ctex::
+Tree1 - 42F.png::CompressedTexture2D::5484260067554429390::1773652518::1773652520::1::::<><><>0<>0<>67f060ab3c14778ad40d4814e0f80c54<>res://.godot/imported/Tree1 - 42F.png-16cd201c8b70b06cbb15105e622007fe.ctex::
+::res://Assets/brackeys_platformer_assets/UIBundleFree/::1773652568
+::res://Assets/brackeys_platformer_assets/UIBundleFree/__MACOSX/::1773652569
+::res://Assets/brackeys_platformer_assets/UIBundleFree/__MACOSX/UIBundleFree/::1773652569
+._freecasinoui.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>93bb6eda65bbe7bc3507f3b812f947d1<>::
+._FreeDemo.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>930a2c3c63540d4b6dd72f54593695e3<>::
+._freefantasy.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>624699d2b6adfb3ebc5393215e8e677c<>::
+._FreeHorrorUi.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>050ce6536bfe18fd1d4423febaeb57f9<>::
+._FreeUI.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>ae3e16d0f4955f5d2e1ed3cb00fec7f6<>::
+._MediavelFree.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>14ed005889495db91da26f62d1818dd5<>::
+._PastelUIFree.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>e5e6ee45e9a0ff5cbde0e1e3ed19189b<>::
+._UiCozyFree.png::::-1::1773652518::1773652518::0::::<><><>0<>0<>5ca676fc1807a7a784794a10b9f2ec99<>::
+::res://Assets/brackeys_platformer_assets/UIBundleFree/UIBundleFree/::1773652568
+freecasinoui.png::CompressedTexture2D::1599261109053130716::1773652518::1773652520::1::::<><><>0<>0<>bac89f38158a480fbf8ecda080087857<>res://.godot/imported/freecasinoui.png-adb6deea17a9198381350f128c686288.ctex::
+FreeDemo.png::CompressedTexture2D::8248895125774970759::1773652518::1773652520::1::::<><><>0<>0<>da30303bdac1f5bd887d95197970c352<>res://.godot/imported/FreeDemo.png-0d7de49981b7623591be7400ffe33533.ctex::
+freefantasy.png::CompressedTexture2D::511498391571180365::1773652518::1773652520::1::::<><><>0<>0<>ffd7cc40c48882dee29c5711e92b6ee8<>res://.godot/imported/freefantasy.png-3231da8f1bb92bc98cdaef60490bfdf9.ctex::
+FreeHorrorUi.png::CompressedTexture2D::5392529402689522154::1773652518::1773652520::1::::<><><>0<>0<>82cb5f03250ea2e728be0b5b26de3713<>res://.godot/imported/FreeHorrorUi.png-21044311c55dd51e71539c3fbc6189ab.ctex::
+FreeUI.png::CompressedTexture2D::5992888172128478567::1773652518::1773652519::1::::<><><>0<>0<>64ea2bff7eed3efba522f238a15878df<>res://.godot/imported/FreeUI.png-63f49bbd6b43c1ab8034b6b78b7c78e8.ctex::
+MediavelFree.png::CompressedTexture2D::2705354155179825182::1773652518::1773652519::1::::<><><>0<>0<>dfcaaa76f0c090025e86bce341fffe2c<>res://.godot/imported/MediavelFree.png-ca3a10fa15ce820f402ad0976ea6359f.ctex::
+PastelUIFree.png::CompressedTexture2D::2196061593046413719::1773652518::1773652519::1::::<><><>0<>0<>31935c3074f933f6fd8cbc7efa9718a7<>res://.godot/imported/PastelUIFree.png-fd5d8af5803e0926d25d53e37a7c1057.ctex::
+UiCozyFree.png::CompressedTexture2D::6605737831654281298::1773652518::1773652519::1::::<><><>0<>0<>26975a2a2780a20cfdfddc7e7a55313b<>res://.godot/imported/UiCozyFree.png-d18f5350b2fb297481152fffb0d0e195.ctex::
+::res://Assets/Buttons/::1773651428
+Button_Blue_3Slides.png::CompressedTexture2D::5671443045979328281::1773544726::1773545282::1::::<><><>0<>0<>36ab8083a0dc6567838cd1b922c1da3c<>res://.godot/imported/Button_Blue_3Slides.png-d140d694592e5380c6476f1501a6982e.ctex::
+Button_Blue_3Slides_Pressed.png::CompressedTexture2D::1168304377741931098::1773544726::1773545282::1::::<><><>0<>0<>0f7303a4a14dc209534904b593c487fc<>res://.godot/imported/Button_Blue_3Slides_Pressed.png-4c76c6f406c98953023906ab52359a3a.ctex::
+Button_Hover_3Slides.png::CompressedTexture2D::6356446810990698801::1773544726::1773545282::1::::<><><>0<>0<>4692c103e418625f1828d8afe5dd5dbf<>res://.godot/imported/Button_Hover_3Slides.png-618cad73505abd4f03cebd31fb88aaec.ctex::
+::res://Assets/CatUIFree/::1773652638
+::res://Assets/CatUIFree/__MACOSX/::1773652638
+::res://Assets/CatUIFree/__MACOSX/CatUIFree/::1773652638
+._free.png::::-1::1773652552::1773652552::0::::<><><>0<>0<>e7824a76281f97cdc4eb0f515b88dc68<>::
+::res://Assets/CatUIFree/CatUIFree/::1773652638
+free.png::CompressedTexture2D::540919907654147485::1773652552::1773652552::1::::<><><>0<>0<>f451295c3d2f8faeafc06c98c62e5c57<>res://.godot/imported/free.png-d7dbab5b3c9aca7d461d96976e72358e.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/::1773652552
+License.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
+Patreon.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/::1773652552
+._License.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
+._Patreon.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/::1773652552
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 1/::1773652552
+._1.png::CompressedTexture2D::8784588135505373319::1773652552::1773652552::0::::<><><>0<>0<>7c86b4a0a0fad9d28c04ce7c24c8a5bd<>::
+._2.png::CompressedTexture2D::6483218675430682511::1773652552::1773652552::0::::<><><>0<>0<>493c05fe3bb564b0d510a78181c52533<>::
+._3.png::CompressedTexture2D::5036207053255343060::1773652552::1773652552::0::::<><><>0<>0<>d640ec84a78ba93d67f4724f65b752bb<>::
+._4.png::CompressedTexture2D::8966545324670381099::1773652552::1773652552::0::::<><><>0<>0<>d9e96f5629cabd73946b59d3f778b1d8<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 2/::1773652552
+._1.png::CompressedTexture2D::3971500807145909112::1773652552::1773652552::0::::<><><>0<>0<>d12fbac9fe886b2430b37e1a6121f317<>::
+._2.png::CompressedTexture2D::778412200864341398::1773652552::1773652552::0::::<><><>0<>0<>55f047cadb337ba361010c2aca4b4a64<>::
+._3.png::CompressedTexture2D::2350072459059484738::1773652552::1773652552::0::::<><><>0<>0<>e64befac80d1b3961622724a933d399b<>::
+._4.png::CompressedTexture2D::6828696551359651282::1773652552::1773652552::0::::<><><>0<>0<>3e0fe7525b484947d7555ef0235b0a36<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 3/::1773652552
+._1.png::CompressedTexture2D::8686809403076960391::1773652552::1773652552::0::::<><><>0<>0<>d907e61a27f2420d315fcdfc6f0a3fa1<>::
+._2.png::CompressedTexture2D::8378882224731552961::1773652552::1773652552::0::::<><><>0<>0<>1bd17ea5d2716ad48ac3b3ae87986c41<>::
+._3.png::CompressedTexture2D::6979373985809198373::1773652552::1773652552::0::::<><><>0<>0<>65fa2f14a2045ae7191cd567d88fefda<>::
+._4.png::CompressedTexture2D::3747120916220595235::1773652552::1773652552::0::::<><><>0<>0<>b6c92569d846f1bc68c19517f580acdf<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 4/::1773652552
+._1.png::CompressedTexture2D::5094803694925079335::1773652552::1773652552::0::::<><><>0<>0<>d8d28cf7c318f84ef504ab72ffa53f13<>::
+._2.png::CompressedTexture2D::6693164104959405206::1773652552::1773652552::0::::<><><>0<>0<>710bc63430c15419e2c9e4e5740bc3d0<>::
+._3.png::CompressedTexture2D::6974369228799672803::1773652552::1773652552::0::::<><><>0<>0<>59ecaa306b53b5724ab35d3368ec1fb4<>::
+._4.png::CompressedTexture2D::7145647563240845945::1773652552::1773652552::0::::<><><>0<>0<>fcd3e12b320566078abf437d8f7f6d64<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 5/::1773652552
+._1.png::CompressedTexture2D::286947391386424700::1773652552::1773652552::0::::<><><>0<>0<>f1027616f9d56935a35aeb39b5f66a18<>::
+._2.png::CompressedTexture2D::5556951365291693415::1773652552::1773652552::0::::<><><>0<>0<>e5208e462348ef19938bfec8b93ead4d<>::
+._3.png::CompressedTexture2D::7995702116458705758::1773652552::1773652552::0::::<><><>0<>0<>7309b67737f6bcfda0245f57bfa741ab<>::
+._4.png::CompressedTexture2D::9032987983284756324::1773652552::1773652552::0::::<><><>0<>0<>af47daf3a8ad261cd4fb496d88eeb37a<>::
+._5.png::CompressedTexture2D::8042994019181544132::1773652552::1773652552::0::::<><><>0<>0<>5753142592a6391570593349e64fe226<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 6/::1773652552
+._1.png::CompressedTexture2D::7882710132142631195::1773652552::1773652552::0::::<><><>0<>0<>fcb9854505c52367c253ea1bb8b3ef08<>::
+._2.png::CompressedTexture2D::1876021542738050588::1773652552::1773652552::0::::<><><>0<>0<>82ae0188bb198e8c8191e97e3cba3551<>::
+._3.png::CompressedTexture2D::4249249867485778718::1773652552::1773652552::0::::<><><>0<>0<>712dc7ea372f5ca6c5a7887d61b66311<>::
+._4.png::CompressedTexture2D::7662545647272977893::1773652552::1773652552::0::::<><><>0<>0<>7b48b51f4d0455c197cb626edf124519<>::
+._5.png::CompressedTexture2D::4357179157152401192::1773652552::1773652552::0::::<><><>0<>0<>32297c8ddea6cf608c52caf1fed1142f<>::
+._6.png::CompressedTexture2D::6233140586697900771::1773652552::1773652552::0::::<><><>0<>0<>122a5b4ef2da4b524b96cb897d96c513<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 7/::1773652552
+._1.png::CompressedTexture2D::4410330275506790877::1773652552::1773652552::0::::<><><>0<>0<>1c489ab89d73c2351d31e4adefeb6cda<>::
+._2.png::CompressedTexture2D::5594933634774991450::1773652552::1773652552::0::::<><><>0<>0<>423a3cdc442bc2fe35e6596d245a4204<>::
+._3.png::CompressedTexture2D::5833666784100926243::1773652552::1773652552::0::::<><><>0<>0<>09ae13bd5c37fc9475dbc72386d14c89<>::
+._4.png::CompressedTexture2D::1407154446536787673::1773652552::1773652552::0::::<><><>0<>0<>3cf4ca1542d831955b034cd6a6812d07<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/__MACOSX/Clouds/Clouds 8/::1773652552
+._1.png::CompressedTexture2D::4874788886316031162::1773652552::1773652552::0::::<><><>0<>0<>eb684f24d0de0792ccbbfebd9d3cd5f0<>::
+._2.png::CompressedTexture2D::4437134888892234621::1773652552::1773652552::0::::<><><>0<>0<>303a53ebd5d1703761fdb4c3d9ce90ae<>::
+._3.png::CompressedTexture2D::2056206300224073918::1773652552::1773652552::0::::<><><>0<>0<>210a0160104cba03c4698200047ef82c<>::
+._4.png::CompressedTexture2D::5595401621872002386::1773652552::1773652552::0::::<><><>0<>0<>c0d99fff21f71b7cb17d5881ebaf93c6<>::
+._5.png::CompressedTexture2D::6598811846946568784::1773652552::1773652552::0::::<><><>0<>0<>b3e60f882440e5ca3af8bf2badb58644<>::
+._6.png::CompressedTexture2D::729713609667274046::1773652552::1773652552::0::::<><><>0<>0<>e218b97ce0068a2d201150d891fda7b3<>::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/::1773652552
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 1/::1773652552
+1.png::CompressedTexture2D::8155920697382252683::1773652552::1773652552::1::::<><><>0<>0<>eea310d6fca476e50d4ced7291587d80<>res://.godot/imported/1.png-10f911e2f5566f23d52446ea558ed287.ctex::
+2.png::CompressedTexture2D::8572642557906976738::1773652552::1773652552::1::::<><><>0<>0<>e665311a3c7c5ddc373f50818a530d85<>res://.godot/imported/2.png-cfb344cc696f02ddfca8716b0375acdc.ctex::
+3.png::CompressedTexture2D::7651587187661289734::1773652552::1773652552::1::::<><><>0<>0<>db10756e8dac27146f6efde03288dda6<>res://.godot/imported/3.png-fa9997a5a579341d49351ac33cd97955.ctex::
+4.png::CompressedTexture2D::7501743018998646800::1773652552::1773652552::1::::<><><>0<>0<>2fb92b3f85c7b3d6f6b5afd3aad77c90<>res://.godot/imported/4.png-d5897f8f42f6e7dfa7d6b51c1fe1817d.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 2/::1773652552
+1.png::CompressedTexture2D::4031543811376648501::1773652552::1773652552::1::::<><><>0<>0<>00644d191b9112d83b740ab58e4afdda<>res://.godot/imported/1.png-269058e40c016994183a60e184774c14.ctex::
+2.png::CompressedTexture2D::4168030532940949610::1773652552::1773652552::1::::<><><>0<>0<>393fdc34f03bf629b55e308accbd66a8<>res://.godot/imported/2.png-6353f3c2e6165262c6d89bd33edf66f4.ctex::
+3.png::CompressedTexture2D::4135817701912309681::1773652552::1773652552::1::::<><><>0<>0<>b57395500428899274d1b3f93010f86c<>res://.godot/imported/3.png-d581acbe49ee25980160894fcd58cadc.ctex::
+4.png::CompressedTexture2D::3300676473184826693::1773652552::1773652552::1::::<><><>0<>0<>6ecb98c5137efc45665b2c6b507878a4<>res://.godot/imported/4.png-89e0794bc367ec8e7921214d3557b83c.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 3/::1773652552
+1.png::CompressedTexture2D::4742864463572697143::1773652552::1773652552::1::::<><><>0<>0<>3fa0fc9c798ce539a7614b402d6b5053<>res://.godot/imported/1.png-d95c17d05a0e8a27d7c26b0745438d5e.ctex::
+2.png::CompressedTexture2D::6448404013923100392::1773652552::1773652552::1::::<><><>0<>0<>aab0897c51742f4bbe325685d14dbd6c<>res://.godot/imported/2.png-f0179d75d7e75213b230fea4c92e480c.ctex::
+3.png::CompressedTexture2D::3557507607200220432::1773652552::1773652552::1::::<><><>0<>0<>f087f8243cb72009ce81dcf6742f0d15<>res://.godot/imported/3.png-6c0ea19a52e9242e5ecc0f252c2a98d5.ctex::
+4.png::CompressedTexture2D::3874201906407346887::1773652552::1773652552::1::::<><><>0<>0<>c3c3fb3c9f59eacb1a1b2307d07d60c7<>res://.godot/imported/4.png-5f96e7a050847f115701fb9dcebede24.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 4/::1773652552
+1.png::CompressedTexture2D::8665195486673481410::1773652552::1773652552::1::::<><><>0<>0<>d0fcae1d86bff0bc133b279ec2705f6b<>res://.godot/imported/1.png-a55aa9f45242d523bb490e6c8ff58dbd.ctex::
+2.png::CompressedTexture2D::7572244332699119529::1773652552::1773652552::1::::<><><>0<>0<>8f9982556e5c9a7510fec04abd60241b<>res://.godot/imported/2.png-aeee26fa82820f9de120fc12116a67fd.ctex::
+3.png::CompressedTexture2D::5294873473145104664::1773652552::1773652552::1::::<><><>0<>0<>113f75de2e16c92181e8f0a4a58f62f0<>res://.godot/imported/3.png-9b11befe0d5e84bca1d17b5965bf950b.ctex::
+4.png::CompressedTexture2D::1984309248057799574::1773652552::1773652552::1::::<><><>0<>0<>6c366e0f24bb339a97af698a5a5fed55<>res://.godot/imported/4.png-4ca22f8eb39ca5eb0a251766b9acbf88.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 5/::1773652552
+1.png::CompressedTexture2D::5330441020073103428::1773652552::1773652552::1::::<><><>0<>0<>d80bd8797a39d5df0d176f22cec1ff19<>res://.godot/imported/1.png-f3bcfa2a8db6015bf26ecf080f4e4b5b.ctex::
+2.png::CompressedTexture2D::3796609510276894595::1773652552::1773652552::1::::<><><>0<>0<>ce8d813ddef01e849d25d9b0ddbe47bb<>res://.godot/imported/2.png-87dac451e68c96a624e43df8fa107da4.ctex::
+3.png::CompressedTexture2D::1067497775548235057::1773652552::1773652552::1::::<><><>0<>0<>92cf931dc4fbec02e7423e73ca6fac38<>res://.godot/imported/3.png-dd356dc755769731974586138b00f4eb.ctex::
+4.png::CompressedTexture2D::7000112730803038004::1773652552::1773652552::1::::<><><>0<>0<>5d9157a94fae241ea36d7c25e007aa65<>res://.godot/imported/4.png-7da28f1920b1f5e462d32c3e58068df1.ctex::
+5.png::CompressedTexture2D::8920662341264463240::1773652552::1773652552::1::::<><><>0<>0<>3153bf58fc70913b274e4b560e3f14bb<>res://.godot/imported/5.png-88f017fde13678d1872f3bbc37345b33.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 6/::1773652552
+1.png::CompressedTexture2D::589885389676965724::1773652552::1773652552::1::::<><><>0<>0<>9f2f5b02b3e30a3be8db3b8bdf82fcd4<>res://.godot/imported/1.png-d62f23244db1aabefb66de23fcd14f63.ctex::
+2.png::CompressedTexture2D::3555554060602577213::1773652552::1773652552::1::::<><><>0<>0<>23eff63d139dd8d8565ad38d3db4ded3<>res://.godot/imported/2.png-f298ba7318d482394adecb70d2072f11.ctex::
+3.png::CompressedTexture2D::5232670363196817802::1773652552::1773652552::1::::<><><>0<>0<>a5db9a06aaf14a2184e06d56cc578b20<>res://.godot/imported/3.png-5563bdecd32bc9564974fad0dc471289.ctex::
+4.png::CompressedTexture2D::8492187293645170323::1773652552::1773652552::1::::<><><>0<>0<>2f168785107d671fe3a647d9da46279f<>res://.godot/imported/4.png-de658d44fcbcab7d19f8235cff654266.ctex::
+5.png::CompressedTexture2D::7232976801039278135::1773652552::1773652552::1::::<><><>0<>0<>1bc1d1f83a15c0465fbcc8f5090e51a3<>res://.godot/imported/5.png-53e99c8d0f4a4ce0c9acb30e8011ce8a.ctex::
+6.png::CompressedTexture2D::6695829797048534117::1773652552::1773652552::1::::<><><>0<>0<>917e4d34b38802f8a555bada04f7d58b<>res://.godot/imported/6.png-6c1289b50f78d94794a5873a15da8030.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 7/::1773652552
+1.png::CompressedTexture2D::5645672511632926057::1773652552::1773652552::1::::<><><>0<>0<>02d25a913a327dff99c0a5de4c2c565c<>res://.godot/imported/1.png-439dbd0b55c8bc9b5a7471bf6867982f.ctex::
+2.png::CompressedTexture2D::514233218612304505::1773652552::1773652552::1::::<><><>0<>0<>747063c98304e8d98bc879a293a01f13<>res://.godot/imported/2.png-006fada57d4a7239cf5911753edd5575.ctex::
+3.png::CompressedTexture2D::6187095591749638802::1773652552::1773652552::1::::<><><>0<>0<>0377a5f6e7c3311b270ed849e3a4fca3<>res://.godot/imported/3.png-c4dbf73562b571332f2f4fd445085479.ctex::
+4.png::CompressedTexture2D::4355040505956205175::1773652552::1773652552::1::::<><><>0<>0<>7521c22fe78ca3089dc9d4aeee2bddc7<>res://.godot/imported/4.png-14ab39f1c1062b941e340ffb372687bb.ctex::
+::res://Assets/free-sky-with-clouds-background-pixel-art-set/Clouds/Clouds 8/::1773652552
+1.png::CompressedTexture2D::2649453428083203908::1773652552::1773652552::1::::<><><>0<>0<>f6aa3bb2deb1818413a503fb8ee4a05e<>res://.godot/imported/1.png-1bc855193b922082f7194eb581888ad3.ctex::
+2.png::CompressedTexture2D::1961146571227915378::1773652552::1773652552::1::::<><><>0<>0<>c8123f81b72046f30427bc37a7cb98e5<>res://.godot/imported/2.png-3f85812882bc20d1472528d23474970a.ctex::
+3.png::CompressedTexture2D::4821164837237700774::1773652552::1773652552::1::::<><><>0<>0<>dd1c25767a8e0c6ce247634723d7af81<>res://.godot/imported/3.png-d952e9cf0a5944dc6d78857838fa8fb2.ctex::
+4.png::CompressedTexture2D::3232881625116848614::1773652552::1773652552::1::::<><><>0<>0<>bf0b1477c4465d278ec845588e06e517<>res://.godot/imported/4.png-a93b9fe9c9cae0da7a411610e1f3c5df.ctex::
+5.png::CompressedTexture2D::6061152452875929770::1773652552::1773652552::1::::<><><>0<>0<>9b714550b31c8895a0617753c33a8f4b<>res://.godot/imported/5.png-21d463b7f807c9455d16fcaa82bd6f37.ctex::
+6.png::CompressedTexture2D::3519214369969640361::1773652552::1773652552::1::::<><><>0<>0<>804ac54134372006cf08dda0b2a21ee1<>res://.godot/imported/6.png-80c4ead3fdf7823b729a40f9f9d08bef.ctex::
+::res://Assets/FreeCatCharacterAnimations/::1773544892
+::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/::1773652553
+1_Cat_Idle-Sheet.png::CompressedTexture2D::3959419809252679078::1773652552::1773652552::1::::<><><>0<>0<>8d8437547249924dcac31ca571d143b5<>res://.godot/imported/1_Cat_Idle-Sheet.png-34f47ac6b344579bec131f02983c5066.ctex::
+2_Cat_Run-Sheet.png::CompressedTexture2D::3756224913275199803::1773652552::1773652552::1::::<><><>0<>0<>1d626a07bc23d1fd016136cb68988fc3<>res://.godot/imported/2_Cat_Run-Sheet.png-be9a294526d59d4d45285bc5465893f5.ctex::
+3_Cat_Jump-Sheet.png::CompressedTexture2D::206689911032236279::1773652552::1773652552::1::::<><><>0<>0<>1e224e8141fcb8b0d1def0c37570cfa2<>res://.godot/imported/3_Cat_Jump-Sheet.png-794ed8e238cc6a5898e266ec5b9e2154.ctex::
+4_Cat_Fall-Sheet.png::CompressedTexture2D::2615439205372052543::1773652552::1773652552::1::::<><><>0<>0<>2be2a0b2bb39e3bd506d7c1659340006<>res://.godot/imported/4_Cat_Fall-Sheet.png-b72a413001ce93b660294a264a2fb403.ctex::
+Contact.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
+License.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
+mountain_depth_z_2.png::CompressedTexture2D::1536791699277854316::1773652552::1773652553::1::::<><><>0<>0<>33cd8dd4350443ecbbbb483ea5041992<>res://.godot/imported/mountain_depth_z_2.png-4196bb2cf56e448206778bab7109b447.ctex::
+::res://Assets/Isometric Geo Pack v1.0/::1773652638
+256x192 SlopesAndStairs 01.png::CompressedTexture2D::579153339866454743::1773652552::1773652552::1::::<><><>0<>0<>20113406677a62bee86c6a0aa8fc1f14<>res://.godot/imported/256x192 SlopesAndStairs 01.png-6243c752b1b50f780e75c6d32b6bdd7d.ctex::
+256x192 SlopesAndStairs 02.png::CompressedTexture2D::2647973330029854244::1773652552::1773652552::1::::<><><>0<>0<>c68566feb40e50ffe9cc53ae416c3a32<>res://.godot/imported/256x192 SlopesAndStairs 02.png-5c8fb429364c11cb0f8f07ac3f370d5a.ctex::
+256x192 SlopesAndStairs 03.png::CompressedTexture2D::3710867523359736438::1773652552::1773652552::1::::<><><>0<>0<>3af40291104396590b95f1bb91628a43<>res://.godot/imported/256x192 SlopesAndStairs 03.png-0a3e5d7d65ab9f2a65b2c5a03f6d9f14.ctex::
+256x192 SlopesAndStairs 04.png::CompressedTexture2D::4276112925542039162::1773652552::1773652552::1::::<><><>0<>0<>4472d2a6f8e1e4ae7f636a1e2fbdfaf8<>res://.godot/imported/256x192 SlopesAndStairs 04.png-2ca8b9f3044e2485fe9456c8db815d58.ctex::
+256x192 SlopesAndStairs 05.png::CompressedTexture2D::1032152911105530638::1773652552::1773652552::1::::<><><>0<>0<>d68e1ab229b9c02da5b3e6e471dbeb66<>res://.godot/imported/256x192 SlopesAndStairs 05.png-0ba11f7961767ac2504b80f09b8348d4.ctex::
+256x192 SlopesAndStairs 06.png::CompressedTexture2D::5423522013353275500::1773652552::1773652552::1::::<><><>0<>0<>14f182f04cb7feada91c7c6e08d98bd4<>res://.godot/imported/256x192 SlopesAndStairs 06.png-0c83952cf465bb2699cd106264e57c9f.ctex::
+256x192 Tiles.png::CompressedTexture2D::2730568015717675544::1773652552::1773652552::1::::<><><>0<>0<>b9976dd3f32b619b3b99030282017785<>res://.godot/imported/256x192 Tiles.png-4c879945ea323c1d610647a65bdc43d5.ctex::
+256x256 SlopesAndStairs 01.png::CompressedTexture2D::466900645493742941::1773652552::1773652552::1::::<><><>0<>0<>68ee6b0b977fd2510fe60d702843472a<>res://.godot/imported/256x256 SlopesAndStairs 01.png-f4cba9f90b667512177ed6dcc7e45f64.ctex::
+256x256 SlopesAndStairs 02.png::CompressedTexture2D::1083279829161783043::1773652552::1773652552::1::::<><><>0<>0<>2d4317b2e7b9ed5f65743f46262b086a<>res://.godot/imported/256x256 SlopesAndStairs 02.png-a3859803f670945b917ded4a577a2309.ctex::
+256x256 SlopesAndStairs 03.png::CompressedTexture2D::6760536267056331310::1773652552::1773652552::1::::<><><>0<>0<>b413fad0d096bb47a69a7dbe401524db<>res://.godot/imported/256x256 SlopesAndStairs 03.png-01c4b156d37b66305c453b747e014986.ctex::
+256x256 SlopesAndStairs 04.png::CompressedTexture2D::2577292231420207630::1773652552::1773652552::1::::<><><>0<>0<>6558922c000434e6c35758cb30cd15ab<>res://.godot/imported/256x256 SlopesAndStairs 04.png-ff27524bce9ce694609652a98e41c4cf.ctex::
+256x256 SlopesAndStairs 05.png::CompressedTexture2D::1488330787740541744::1773652552::1773652552::1::::<><><>0<>0<>4fd8327b87ad50ec8ec9d1e67eb282df<>res://.godot/imported/256x256 SlopesAndStairs 05.png-3cdbb9d64d8dbdae60a976be381bafd7.ctex::
+256x256 SlopesAndStairs 06.png::CompressedTexture2D::2700615891059102873::1773652552::1773652552::1::::<><><>0<>0<>836e0520daa656067b70e15d9e68d2bb<>res://.godot/imported/256x256 SlopesAndStairs 06.png-ccc2d00918ed45da63f2a7e355280b98.ctex::
+256x256 Tiles.png::CompressedTexture2D::7899652074251710320::1773652552::1773652552::1::::<><><>0<>0<>ad69cb0d6ff76533a8217c3e24927d48<>res://.godot/imported/256x256 Tiles.png-53be5c452a04d5b1910a32eaff2b7f49.ctex::
+512x512 Crystals Transparent.png::CompressedTexture2D::8896760920588080056::1773652552::1773652552::1::::<><><>0<>0<>50f527c3a9aae8378c823619963c6cee<>res://.godot/imported/512x512 Crystals Transparent.png-1c4c5c9e41d48860631a3bc285050b06.ctex::
+512x512 Rocks.png::CompressedTexture2D::4699404585472891890::1773652552::1773652552::1::::<><><>0<>0<>1ee2eeb9cc3f0340722097f9b5fe8188<>res://.godot/imported/512x512 Rocks.png-d9951b39b33e64aca96e1a93fb742db0.ctex::
+512x1024 Trees.png::CompressedTexture2D::3111625864779185186::1773652552::1773652552::1::::<><><>0<>0<>55da42cec36b46ea873d8b9effde0fcc<>res://.godot/imported/512x1024 Trees.png-f3f6d64e87f0a06dd6d1cda4de130500.ctex::
+1024x512 Objects01.png::CompressedTexture2D::1756601160249305092::1773652552::1773652552::1::::<><><>0<>0<>d164ab47f4fbbb883c65f517d49a0dc7<>res://.godot/imported/1024x512 Objects01.png-34eb1d658f9e41a9beb6e2ecb20f36f0.ctex::
+goldensoundlabs-shimmy-294651.ogg::AudioStreamOggVorbis::2991543704839869574::1773652552::1773652552::1::::<><><>0<>0<>a79d01731ac481f16137c4008db28f3c<>res://.godot/imported/goldensoundlabs-shimmy-294651.ogg-6ca36a0113e30a7298290083cf5db6ee.oggvorbisstr::
+::res://Assets/Isometric Geo Pack v1.0/Parallax Cave/::1773652638
+1.png::CompressedTexture2D::1451325262468876280::1773652552::1773652552::1::::<><><>0<>0<>853047c590efc4afbe8d05f61e1cad5f<>res://.godot/imported/1.png-0ebcb2e0ea75f6d39fde183139691865.ctex::
+2.png::CompressedTexture2D::3114047769391651239::1773652552::1773652552::1::::<><><>0<>0<>d98a87976dfaca191ccb57d9139079e4<>res://.godot/imported/2.png-dd4d788fc69769723753ae2841eeb67e.ctex::
+3fx.png::CompressedTexture2D::164434086316867447::1773652552::1773652552::1::::<><><>0<>0<>03698f776e7099405c82314ddc149d25<>res://.godot/imported/3fx.png-f4a3bb8954d5328424d197546cac181b.ctex::
+4.png::CompressedTexture2D::6574589687695316694::1773652552::1773652552::1::::<><><>0<>0<>4e424edaa8e2094088cc16ce6996aebe<>res://.godot/imported/4.png-1dcd069ad587b53af55f3f1ea34ea262.ctex::
+5.png::CompressedTexture2D::1086483140883023213::1773652552::1773652552::1::::<><><>0<>0<>a4f80df57708fbe3c38efdbf1585c637<>res://.godot/imported/5.png-a8f304ede234e440624dbebd13f86999.ctex::
+6fx.png::CompressedTexture2D::7060292145398751824::1773652552::1773652552::1::::<><><>0<>0<>4d9b03192966a558aa8117054609b77d<>res://.godot/imported/6fx.png-4265d40f0cccf6b46a8f6d6e14747dc4.ctex::
+7.png::CompressedTexture2D::4210315791491537839::1773652552::1773652552::1::::<><><>0<>0<>a3e96252012d98d8c12cc96769b0d382<>res://.godot/imported/7.png-9105a2b1f92539faf5eebbf8d69f744a.ctex::
+8fx.png::CompressedTexture2D::7695885362644867241::1773652552::1773652552::1::::<><><>0<>0<>6c8420196b1995714948f4b8bd214946<>res://.godot/imported/8fx.png-36dce6313ceda8372fde4ae7da4e7012.ctex::
+9.png::CompressedTexture2D::2177037035164595161::1773652552::1773652552::1::::<><><>0<>0<>c334e2e0fd6fc20ba10f6eb77578fdae<>res://.godot/imported/9.png-1851b5d8f697e680aac9539fdc67caa3.ctex::
+::res://Assets/Kauzz Forest Tiles/::1773652638
+Enviroment.png::CompressedTexture2D::6887676695867272933::1773652552::1773652552::1::::<><><>0<>0<>6fa3e2e4f89a1cfd90da116a195309e6<>res://.godot/imported/Enviroment.png-07d3986de7cd9c1fa36f37b7b0dc7c5b.ctex::
+Read me.txt::TextFile::-1::1773652553::0::1::::<><><>0<>0<><>::
+::res://Assets/Kauzz Forest Tiles/Backgrounds/::1773652638
+Background Extended Green.png::CompressedTexture2D::3719005919316724338::1773652552::1773652552::1::::<><><>0<>0<>eb2b7721961c5389639bc02ea73472e2<>res://.godot/imported/Background Extended Green.png-dc32271e36d772f88a6033892015b315.ctex::
+Background Extended.png::CompressedTexture2D::4413266168653999404::1773652552::1773652552::1::::<><><>0<>0<>a4e65f0495f6d678bcaddbcc467ff412<>res://.godot/imported/Background Extended.png-05ff9eba0fdd8a11f1f4313edd84a29a.ctex::
+Midleground Extended Green.png::CompressedTexture2D::5865611747784799520::1773652552::1773652552::1::::<><><>0<>0<>507243b8c2f8cc14b62cd8d3166bf265<>res://.godot/imported/Midleground Extended Green.png-58f90cf89c141caa5ccdc24cda492b29.ctex::
+Midleground Extended.png::CompressedTexture2D::514875728211676958::1773652552::1773652552::1::::<><><>0<>0<>98abe59a6b2d2c68ba184636f66f3d10<>res://.godot/imported/Midleground Extended.png-1a67ad77c3d50b99924a580f7824c453.ctex::
+Midleground.png::CompressedTexture2D::1758147614251534277::1773652552::1773652552::1::::<><><>0<>0<>6921de846f6e6c55b24c9026d8f88a64<>res://.godot/imported/Midleground.png-13b3e8a1060159c4e38655f8208b143c.ctex::
+::res://Assets/Kauzz Forest Tiles/Bat/::1773652638
+Bat_flying_strip22.png::CompressedTexture2D::7200676405160997101::1773652552::1773652552::1::::<><><>0<>0<>0b4c6f1bcab2120ffc3799ab0f2b4dab<>res://.godot/imported/Bat_flying_strip22.png-c938c649d12a9cc473539f069872f2f7.ctex::
+Bat_sleeping_strip31.png::CompressedTexture2D::2575135870776690232::1773652552::1773652552::1::::<><><>0<>0<>a41eb417187f592e428d2c442eaac83d<>res://.godot/imported/Bat_sleeping_strip31.png-79e0d2d8b681fa03b6c550ec35ce3f59.ctex::
+Minibat_strip6.png::CompressedTexture2D::4327257802204940007::1773652552::1773652552::1::::<><><>0<>0<>96918952e4a3908515f7a15fce7d8d18<>res://.godot/imported/Minibat_strip6.png-b723de9739e03c8408fa29da20f46c7a.ctex::
+::res://Assets/Kauzz Forest Tiles/Bushes and Seaweed/::1773652638
+Bush_strip60.png::CompressedTexture2D::5396058019117761938::1773652552::1773652552::1::::<><><>0<>0<>daa33ae34ca53722371d98eb8eb62750<>res://.godot/imported/Bush_strip60.png-7e228a096d01d745269149796d539f15.ctex::
+seaweed_strip60.png::CompressedTexture2D::8554631863122256684::1773652552::1773652552::1::::<><><>0<>0<>4d2dd1e24164cc6c09ef77b1657f0ed1<>res://.godot/imported/seaweed_strip60.png-cac04e66ad536bd55d525da86b481fdd.ctex::
+::res://Assets/Kauzz Forest Tiles/Collectables/::1773652638
+gold_coin_strip4.png::CompressedTexture2D::9210093816449306121::1773652552::1773652552::1::::<><><>0<>0<>6db2a27530016dad6318ae19015a0846<>res://.godot/imported/gold_coin_strip4.png-78c0e4b82353b56a79654bbcddc185b7.ctex::
+Heart_strip2.png::CompressedTexture2D::962878534914283812::1773652552::1773652552::1::::<><><>0<>0<>07f3da788058460e1f348fe0ba96aff1<>res://.godot/imported/Heart_strip2.png-62a126be2ae9f1c91bde4c507f7cd86f.ctex::
+silver_coin_strip4.png::CompressedTexture2D::7747153301596560994::1773652552::1773652552::1::::<><><>0<>0<>309bb11bc5acd0db99c4810379a19c23<>res://.godot/imported/silver_coin_strip4.png-312dffef2f83524d41ac17ffe14d7b0a.ctex::
+::res://Assets/Kauzz Forest Tiles/Fire and Smoke/::1773652638
+Fire_burn_strip104.png::CompressedTexture2D::2029066470234420900::1773652552::1773652552::1::::<><><>0<>0<>b3df77335a545635434bc3af73d3eace<>res://.godot/imported/Fire_burn_strip104.png-a0b73641e583b81bf51fcf8bc0518224.ctex::
+Fire_loop_strip190.png::CompressedTexture2D::66125094831826031::1773652552::1773652552::1::::<><><>0<>0<>9aebce6be91d9d854320b2b7c4e72d79<>res://.godot/imported/Fire_loop_strip190.png-ea550a21fd72881b8aefba6e4d9dde72.ctex::
+smoke_strip110.png::CompressedTexture2D::4896041222347075033::1773652552::1773652552::1::::<><><>0<>0<>f1390777307ba3705e9366b290deda6a<>res://.godot/imported/smoke_strip110.png-50ed398fe78778d8b26b05e2dc709044.ctex::
+::res://Assets/Kauzz Forest Tiles/Fish/::1773652638
+Fish2_strip7.png::CompressedTexture2D::6142819898053448476::1773652552::1773652552::1::::<><><>0<>0<>41ec446aa157797db1026c886a175106<>res://.godot/imported/Fish2_strip7.png-07a0d5e4f7fdba28dbe43b1188114de7.ctex::
+Fish_strip4.png::CompressedTexture2D::8421488437222941354::1773652552::1773652552::1::::<><><>0<>0<>f4b94602b0af25bce883fe21fd8ecea5<>res://.godot/imported/Fish_strip4.png-f29d7fe8b2b37328ccfad2acbf4d1f84.ctex::
+::res://Assets/Kauzz Forest Tiles/Frog/::1773652638
+BROWNfrog_blinking_strip10.png::CompressedTexture2D::2784265252097875123::1773652552::1773652552::1::::<><><>0<>0<>87bc9b407afc676d346e33352e65bc3f<>res://.godot/imported/BROWNfrog_blinking_strip10.png-e80714245fd4cb5f9f9658bea7e1f4ff.ctex::
+BROWNFrog_idle_strip26.png::CompressedTexture2D::5250339284270006962::1773652553::1773652553::1::::<><><>0<>0<>1ce1560b3ac8b3d1ad465f01100b8bc3<>res://.godot/imported/BROWNFrog_idle_strip26.png-15a7da31ab8791e9c74b648c66bb7db0.ctex::
+BROWNFrog_jumping_strip14.png::CompressedTexture2D::124585770065882066::1773652553::1773652553::1::::<><><>0<>0<>e4ede3faea11b329f8b8b7fc62db6ccd<>res://.godot/imported/BROWNFrog_jumping_strip14.png-631039aeecafda86d6d3efa1f0995f72.ctex::
+frog_blinking_strip10.png::CompressedTexture2D::629358106945077767::1773652553::1773652553::1::::<><><>0<>0<>999ce792ca67050f73f6a9ad56ca9198<>res://.godot/imported/frog_blinking_strip10.png-b4a6722d27b4c2edda0407fd6f598247.ctex::
+Frog_idle_strip26.png::CompressedTexture2D::313607764590486362::1773652553::1773652553::1::::<><><>0<>0<>8dd7dc50c191c60423bf694ddbedfe06<>res://.godot/imported/Frog_idle_strip26.png-298e243ec8287d92dab67f87d7a88e6c.ctex::
+Frog_jumping_strip14.png::CompressedTexture2D::8734776077864298482::1773652553::1773652553::1::::<><><>0<>0<>828cbfa0ec2d1af6c253cba2f8b93bed<>res://.godot/imported/Frog_jumping_strip14.png-8d075b081a70c80c035492980ef7ac6b.ctex::
+::res://Assets/Kauzz Forest Tiles/Old versions/::1773652638
+bat_flying2_strip8.png::CompressedTexture2D::2397684924303837866::1773652553::1773652553::1::::<><><>0<>0<>aa6c5b93076fd701a9178e3747d31600<>res://.godot/imported/bat_flying2_strip8.png-0a2e82a4ccf3e89460c59b24d26cbfd1.ctex::
+bat_flying3_strip8.png::CompressedTexture2D::4949516418722111034::1773652553::1773652553::1::::<><><>0<>0<>20c8279088aeef14d2b2b9a4d766a642<>res://.godot/imported/bat_flying3_strip8.png-6399d467cc75c05723bef26f45577281.ctex::
+::res://Assets/Kauzz Forest Tiles/Snake/::1773652638
+BLUESnake_strip7.png::CompressedTexture2D::7485906789317047064::1773652553::1773652553::1::::<><><>0<>0<>3eb5c5ede8c2606e368f06a350990381<>res://.godot/imported/BLUESnake_strip7.png-d6a8141a069905f5bde3b5d341b8bdb9.ctex::
+GREENSnake_strip7.png::CompressedTexture2D::6457342071499104018::1773652553::1773652553::1::::<><><>0<>0<>a8e599874d7c34fd738444db53708802<>res://.godot/imported/GREENSnake_strip7.png-01d0cb57279b1fff511481c906bf7af3.ctex::
+REDSnake_strip7.png::CompressedTexture2D::7623802020038053234::1773652553::1773652553::1::::<><><>0<>0<>25fd9f82667ab87eef1fb971e0a051c3<>res://.godot/imported/REDSnake_strip7.png-7735b710a9c0a885b03e57d4efc38e48.ctex::
+Snake_strip6.png::CompressedTexture2D::3272538014732748565::1773652553::1773652553::1::::<><><>0<>0<>24cb1f274265f71db52160a30472d4ca<>res://.godot/imported/Snake_strip6.png-72d375418197c5d538beb5eb36e7ee89.ctex::
+::res://Assets/Kauzz Forest Tiles/Tree/::1773652638
+Tree_strip120.png::CompressedTexture2D::2399353255077065835::1773652553::1773652553::1::::<><><>0<>0<>066837c6f871e7e93304cd3f4325242e<>res://.godot/imported/Tree_strip120.png-b3aa61fff08d4b88276abe626a7d8c5f.ctex::
+::res://Assets/Kauzz Forest Tiles/Water/::1773652638
+bubble_strip6.png::CompressedTexture2D::7128850871100264145::1773652553::1773652553::1::::<><><>0<>0<>c8fef2c252455408fe0e97139c53b5f5<>res://.godot/imported/bubble_strip6.png-e21ad6d106a7f89f11b6a16f05e6e521.ctex::
+Water_swamp_strip60.png::CompressedTexture2D::3847244266010145416::1773652553::1773652553::1::::<><><>0<>0<>3aee549ce4154ebaef43f15cb4c3d0b0<>res://.godot/imported/Water_swamp_strip60.png-8349c9305710a874626b909b9106a3bd.ctex::
+Water_waves_strip60.png::CompressedTexture2D::1678099533574642489::1773652553::1773652553::1::::<><><>0<>0<>3e2a434cafc9051abf792aafe1533f2f<>res://.godot/imported/Water_waves_strip60.png-ff6de288a7341edadc3068c39c3160d6.ctex::
+::res://Assets/Pixel Valley Revamp/::1773652638
+Background.png::CompressedTexture2D::5054199952627827494::1773652553::1773652553::1::::<><><>0<>0<>3843934bb13e5eb836e07579aa08327a<>res://.godot/imported/Background.png-973d40401e04a9741901952741848792.ctex::
+Bush - 60F.png::CompressedTexture2D::5391354132921879062::1773652553::1773652553::1::::<><><>0<>0<>39363f0d0977547f4d38452260668b1b<>res://.godot/imported/Bush - 60F.png-d44e3d070dc6b588b8889476b1b7b37c.ctex::
+Coin - 12x12 - 4F.png::CompressedTexture2D::7328481402088620415::1773652553::1773652553::1::::<><><>0<>0<>6cf19f0db08804b3fa60f38f1a70bf4d<>res://.godot/imported/Coin - 12x12 - 4F.png-e300a9b2eff11419e810b5fd8b6dc72b.ctex::
+Coin - 32x32 - 9F.png::CompressedTexture2D::4211036011257187171::1773652553::1773652553::1::::<><><>0<>0<>97e96a122a953ec2a5fdfc99208f1549<>res://.godot/imported/Coin - 32x32 - 9F.png-bc410ba999dc3e1ba6bb73f6b3ce92f3.ctex::
+Enviroment.png::CompressedTexture2D::3919577296765443359::1773652553::1773652553::1::::<><><>0<>0<>f60824d3cf596f9316a1786ea769a022<>res://.godot/imported/Enviroment.png-f486dcdc9832f93a92d656f76b5264ae.ctex::
+Fish - 7F.png::CompressedTexture2D::2099704748571448498::1773652553::1773652553::1::::<><><>0<>0<>506fdeb6ce1b194e377fa339297540da<>res://.godot/imported/Fish - 7F.png-7442154ddaf603e6edff35ab256a74ad.ctex::
+Frog - 14F.png::CompressedTexture2D::4925456214065103619::1773652553::1773652553::1::::<><><>0<>0<>a5f079b0a9613917f985caf3ef44afeb<>res://.godot/imported/Frog - 14F.png-cca49e87b57b41aa4fc18d9cc0510c5d.ctex::
+Midleground.png::CompressedTexture2D::5122402918760018555::1773652553::1773652553::1::::<><><>0<>0<>24bfb4780dd85b66e3e0134822ef5819<>res://.godot/imported/Midleground.png-bbd80cd06785300abf26fbd8d6152484.ctex::
+Pine - 60F.png::CompressedTexture2D::8239733962292069181::1773652553::1773652553::1::::<><><>0<>0<>b139d9f9f23f5a6ba3a0fc63590bc1c7<>res://.godot/imported/Pine - 60F.png-0c6641692e5baa3bf325da26e2636f7c.ctex::
+Pine II - 60F.png::CompressedTexture2D::5407540619954973836::1773652553::1773652553::1::::<><><>0<>0<>23839b4a4f959f1ac66f1411ee0b0ca4<>res://.godot/imported/Pine II - 60F.png-5e29d3c55657f1b4183c53ead3361463.ctex::
+Snake - 6F.png::CompressedTexture2D::1160240582226519301::1773652553::1773652553::1::::<><><>0<>0<>2d9eb2d0463ad36a76367d9214bffed9<>res://.godot/imported/Snake - 6F.png-2df9fd13d35ea35fc901646f10cb2089.ctex::
+Tree1 - 42F.png::CompressedTexture2D::5484260067554429390::1773652553::1773652553::1::::<><><>0<>0<>3f530d52b0c7790abf313e27fadd7e10<>res://.godot/imported/Tree1 - 42F.png-2e838057af821ae86fc7cab91369211d.ctex::
+::res://Assets/Pixel_Platformer_Tileset_Pack/::1773549723
+::res://Assets/Pixel_Platformer_Tileset_Pack/__MACOSX/::1773544893
+::res://Assets/Pixel_Platformer_Tileset_Pack/__MACOSX/Asset_01/::1773544893
+::res://Assets/Pixel_Platformer_Tileset_Pack/__MACOSX/Asset_02/::1773544893
+::res://Assets/Pixel_Platformer_Tileset_Pack/__MACOSX/Asset_03/::1773544893
+._pixel_platform_03_tileset_final.png::CompressedTexture2D::759874279767205463::1773544727::1773544727::0::::<><><>0<>0<>ecb0bca24de79ec18fba909bd299831f<>::
+::res://Assets/Pixel_Platformer_Tileset_Pack/__MACOSX/Background/::1773544893
+._clouds.png::CompressedTexture2D::3343385265407602675::1773544727::1773544727::0::::<><><>0<>0<>e638fc3ab902352602e9f6cbd44bf5bd<>::
+._mountain_depth_z_1.png::CompressedTexture2D::6097612302451332060::1773544727::1773544727::0::::<><><>0<>0<>d2b4095bd003e3ecdea89586e7ef024a<>::
+._mountain_depth_z_2.png::CompressedTexture2D::3665665721001366758::1773544727::1773544727::0::::<><><>0<>0<>0b332bd3aa8282ff4f81ed308df5cd63<>::
+._single_background.png::CompressedTexture2D::6535399779409371261::1773544727::1773544727::0::::<><><>0<>0<>e26125c34de90c02ee28a8ce24a816b5<>::
+._sky_solid_color.png::CompressedTexture2D::1810049212219462720::1773544727::1773544727::0::::<><><>0<>0<>e92d74f4b676858cf9907eeabaa21b69<>::
+::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_01/::1773545282
+pixel_platform_01_tileset_final.png::CompressedTexture2D::5398268104149929517::1773544727::1773545282::1::::<><><>0<>0<>aa762d2d7a587f8a2f7a7ee4605389c4<>res://.godot/imported/pixel_platform_01_tileset_final.png-989050242783eb7758e83fe05f4129d1.ctex::
+::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_02/::1773545282
+pixel_platform_02_tileset_final.png::CompressedTexture2D::1101928393365551974::1773544727::1773545282::1::::<><><>0<>0<>f056c72e1bf50eca4b22e1db692edf2c<>res://.godot/imported/pixel_platform_02_tileset_final.png-04ba77c1507ab9ff00813d3b4ce0827b.ctex::
+::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_03/::1773545282
+pixel_platform_03_tileset_final.png::CompressedTexture2D::3679999280300082288::1773544727::1773545282::1::::<><><>0<>0<>ffba0fe838e453c336bdba00d54241d5<>res://.godot/imported/pixel_platform_03_tileset_final.png-03741b18ead9811d69a3e842fa7cf45f.ctex::
+::res://Assets/Pixel_Platformer_Tileset_Pack/Background/::1773651331
+clouds.png::CompressedTexture2D::6293927403862373672::1773544727::1773545282::1::::<><><>0<>0<>3a2e8deab041dd3f7977869119d47c72<>res://.godot/imported/clouds.png-4e735a0de2ba854002973d17738af59d.ctex::
+::res://Assets/UIBundleFree/::1773652638
+::res://Assets/UIBundleFree/__MACOSX/::1773652638
+::res://Assets/UIBundleFree/__MACOSX/UIBundleFree/::1773652638
+._freecasinoui.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>93bb6eda65bbe7bc3507f3b812f947d1<>::
+._FreeDemo.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>930a2c3c63540d4b6dd72f54593695e3<>::
+._freefantasy.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>624699d2b6adfb3ebc5393215e8e677c<>::
+._FreeHorrorUi.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>050ce6536bfe18fd1d4423febaeb57f9<>::
+._FreeUI.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>ae3e16d0f4955f5d2e1ed3cb00fec7f6<>::
+._MediavelFree.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>14ed005889495db91da26f62d1818dd5<>::
+._PastelUIFree.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>e5e6ee45e9a0ff5cbde0e1e3ed19189b<>::
+._UiCozyFree.png::::-1::1773652553::1773652553::0::::<><><>0<>0<>5ca676fc1807a7a784794a10b9f2ec99<>::
+::res://Assets/UIBundleFree/UIBundleFree/::1773652638
+freecasinoui.png::CompressedTexture2D::1599261109053130716::1773652553::1773652553::1::::<><><>0<>0<>0666a7b1ec0769f4d3701d1132a994d7<>res://.godot/imported/freecasinoui.png-39e599bb4d2662604e14aac397de6c0e.ctex::
+FreeDemo.png::CompressedTexture2D::8248895125774970759::1773652553::1773652553::1::::<><><>0<>0<>700987fe3d38f24018ff8140cb8fb744<>res://.godot/imported/FreeDemo.png-a7ad1de063e68a36dc2ba8041efe93e0.ctex::
+freefantasy.png::CompressedTexture2D::511498391571180365::1773652553::1773652553::1::::<><><>0<>0<>23a7c0861f82ca360c353d074f7da680<>res://.godot/imported/freefantasy.png-9a324b812139157f87450c163b95723e.ctex::
+FreeHorrorUi.png::CompressedTexture2D::5392529402689522154::1773652553::1773652553::1::::<><><>0<>0<>1eab269c2f209a73389e4ff79c7cbdec<>res://.godot/imported/FreeHorrorUi.png-d1380632caff6f56caa84be62be0066c.ctex::
+FreeUI.png::CompressedTexture2D::5992888172128478567::1773652553::1773652553::1::::<><><>0<>0<>ab1548238a69aa714300e046ad5c0c02<>res://.godot/imported/FreeUI.png-0aeb7aedb540c56abbbf8775bd929c9a.ctex::
+MediavelFree.png::CompressedTexture2D::2705354155179825182::1773652553::1773652553::1::::<><><>0<>0<>c176934165181dc2de213cd3a43d72b5<>res://.godot/imported/MediavelFree.png-78206e277aaddead5dce91cefdd88bd1.ctex::
+PastelUIFree.png::CompressedTexture2D::2196061593046413719::1773652553::1773652553::1::::<><><>0<>0<>4af1ca6b80d89f275ed29dea5223ab5e<>res://.godot/imported/PastelUIFree.png-84c515794a9d72ddf5d113c87b43587b.ctex::
+UiCozyFree.png::CompressedTexture2D::6605737831654281298::1773652553::1773652553::1::::<><><>0<>0<>2c74857eaee47e98bfd8fdaf9a785f6a<>res://.godot/imported/UiCozyFree.png-0dff8dc670d539330a7b77ceea772544.ctex::
+::res://index/::1773652886
+index.apple-touch-icon.png::CompressedTexture2D::8663884596183796443::1773652886::1773652138::1::::<><><>0<>0<>9a42049a8f509c0bab46fc7cf8941745<>res://.godot/imported/index.apple-touch-icon.png-7b995845c0a478c87d24a0118989ba83.ctex::
+index.icon.png::CompressedTexture2D::9007095540805701694::1773652886::1773653043::1::::<><><>0<>0<>5ae68571057a2d3103b120d42c7e8fd4<>res://.godot/imported/index.icon.png-9b91fe2628993b35c8d82c5ec7ac5d53.ctex::
+index.png::CompressedTexture2D::108486193126267076::1773652886::1773652138::1::::<><><>0<>0<>58b0e256cbfedab9bac3837ee6591ca2<>res://.godot/imported/index.png-d646afb8957734b59142c2e7c2ce3eb2.ctex::
+::res://Scenes/::1773652672
+audio_stream_player.tscn::PackedScene::6596506041282245065::1773544726::0::1::::<><><>0<>0<><>::uid://lqq3on2f8iru::::res://Assets/goldensoundlabs-shimmy-294651.ogg
+coins.tscn::PackedScene::4373926612181394103::1773639397::0::1::::<><><>0<>0<><>::uid://nfn8tn6gqy2l::::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sprites/coin.png<>uid://c7axws8e4i85e::::res://Scripts/coins.gd<>uid://c3ge7yqjns2cn::::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sounds/coin.wav
+EndMenu.tscn::PackedScene::5481400558771518989::1773646637::0::1::::<><><>0<>0<><>::uid://duesoev74nauc::::res://Assets/image (1).png<>uid://cm2j3re4ojywf::::res://Assets/Buttons/Button_Blue_3Slides.png<>uid://qv62jt6m0llq::::res://Assets/Buttons/Button_Blue_3Slides_Pressed.png<>uid://cwtd0rlls2r7v::::res://Assets/Buttons/Button_Hover_3Slides.png<>uid://cj4013sgl38jh::::res://Scripts/start_button.gd<>uid://cx7ty6cghnapu::::res://Scripts/main_menu_button.gd
+final.tscn::PackedScene::2855344037798855874::1773646346::0::1::::<><><>0<>0<><>::uid://cqsh17l84hb2l::::res://Scripts/final.gd
+KillScreen.tscn::PackedScene::2754040419809939253::1773651223::0::1::::<><><>0<>0<><>::uid://duesoev74nauc::::res://Assets/image (1).png<>uid://cm2j3re4ojywf::::res://Assets/Buttons/Button_Blue_3Slides.png<>uid://qv62jt6m0llq::::res://Assets/Buttons/Button_Blue_3Slides_Pressed.png<>uid://cwtd0rlls2r7v::::res://Assets/Buttons/Button_Hover_3Slides.png<>uid://cj4013sgl38jh::::res://Scripts/start_button.gd<>uid://cx7ty6cghnapu::::res://Scripts/main_menu_button.gd
+killzone.tscn::PackedScene::2600957830902156314::1773651879::0::1::::<><><>0<>0<><>::uid://cpgcvedaxtcd5::::res://Scripts/killzone.gd
+killzonesmall.tscn::PackedScene::8342341899525203240::1773650074::0::1::::<><><>0<>0<><>::uid://cpgcvedaxtcd5::::res://Scripts/killzone.gd
+MainMenu.tscn::PackedScene::5478149460907473310::1773639438::0::1::::<><><>0<>0<><>::uid://cm2j3re4ojywf::::res://Assets/Buttons/Button_Blue_3Slides.png<>uid://duesoev74nauc::::res://Assets/image (1).png<>uid://qv62jt6m0llq::::res://Assets/Buttons/Button_Blue_3Slides_Pressed.png<>uid://cwtd0rlls2r7v::::res://Assets/Buttons/Button_Hover_3Slides.png<>uid://cj4013sgl38jh::::res://Scripts/start_button.gd
+main_game.tscn::PackedScene::3732378460652649851::1773652671::0::1::::<><><>0<>0<><>::uid://bfh4wxnqu68fa::::res://Scenes/player.tscn<>uid://c8pv3oxgjiy34::::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sprites/world_tileset.png<>uid://bfn5mssrrahx2::::res://Scripts/game_manager.gd<>uid://bsovbymsf0cei::::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_03/pixel_platform_03_tileset_final.png<>uid://b3k06xxx4634f::::res://Scenes/coins.tscn<>uid://bgxfdmujcti7k::::res://Scenes/final.tscn<>uid://px1ungpf2lbq::::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_02/pixel_platform_02_tileset_final.png<>uid://bdb6npftfdxyg::::res://Scenes/killzone.tscn<>uid://cvw3cg5nu7xwa::::res://Assets/Pixel_Platformer_Tileset_Pack/Background/clouds.png<>uid://dq4dfgagg22u3::::res://Scenes/killzonesmall.tscn
+player.tscn::PackedScene::2753616855292277542::1773611597::0::1::::<><><>0<>0<><>::uid://bwn8cibocpsyw::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/1_Cat_Idle-Sheet.png<>uid://4be4ly5gtsbs::::res://Scripts/player.gd<>uid://c7efgpihq47t::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/3_Cat_Jump-Sheet.png<>uid://bdi65wif5buv4::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/4_Cat_Fall-Sheet.png<>uid://btrsqfyijp6bv::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/2_Cat_Run-Sheet.png
+::res://Scripts/::1773651879
+coins.gd::GDScript::7020321138722472148::1773650924::0::1::::<>Area2D<><>0<>0<><>::
+final.gd::GDScript::5933494814037141901::1773645222::0::1::::<>Area2D<><>0<>0<><>::
+game_manager.gd::GDScript::2766045726017803637::1773650468::0::1::::<>Node<><>0<>0<><>::
+killzone.gd::GDScript::5838219438897881044::1773651879::0::1::::<>Area2D<><>0<>0<><>::
+main_button.gd::GDScript::7930952221043052438::1773544721::0::1::::<>Control<><>0<>0<><>::
+main_menu_button.gd::GDScript::6454442972703081770::1773544721::0::1::::<>Control<><>0<>0<><>::
+player.gd::GDScript::2037836115455312692::1773645222::0::1::::<>CharacterBody2D<><>0<>0<><>::
+reset_button.gd::GDScript::4153290391301217331::1773544726::0::1::::<>Control<><>0<>0<><>::
+start_button.gd::GDScript::5465973769205650701::1773544726::0::1::::<>Control<><>0<>0<><>::

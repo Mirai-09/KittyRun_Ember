@@ -1,0 +1,14 @@
+AnimationPlayer
+AudioStreamPlayer2D
+AudioListener2D
+Node
+CollisionShape2D
+Area2D
+Label
+CanvasGroup
+CanvasLayer
+AnimatedSprite2D
+Camera2D
+Timer
+Node2D
+Panel

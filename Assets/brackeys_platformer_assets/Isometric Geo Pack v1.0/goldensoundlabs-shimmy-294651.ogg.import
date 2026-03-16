@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://bivej1vw7r7pa"
+path="res://.godot/imported/goldensoundlabs-shimmy-294651.ogg-9caba69e1b431e3640a3947d907fb47e.oggvorbisstr"
+
+[deps]
+
+source_file="res://Assets/brackeys_platformer_assets/Isometric Geo Pack v1.0/goldensoundlabs-shimmy-294651.ogg"
+dest_files=["res://.godot/imported/goldensoundlabs-shimmy-294651.ogg-9caba69e1b431e3640a3947d907fb47e.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
