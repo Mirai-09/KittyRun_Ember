@@ -1,10 +1,12 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1773652954
-export_presets.cfg::TextFile::-1::1773652886::0::1::::<><><>0<>0<><>::
-::res://Assets/::1773652553
+::res://::1773654451
+export_presets.cfg::TextFile::-1::1773654131::0::1::::<><><>0<>0<><>::
+::res://Assets/::1773654604
 caveRemasteredV7.png::CompressedTexture2D::7676895590449190397::1773652553::1773652553::1::::<><><>0<>0<>2ccde3ec9c1fa43b1c8d7406c776dab2<>res://.godot/imported/caveRemasteredV7.png-85c20a98eec8557839b0d567a9507303.ctex::
 goldensoundlabs-shimmy-294651.mp3::AudioStreamMP3::5633666777856032670::1773544726::1773545281::1::::<><><>0<>0<>0a7d6aab24c79df21828b27880980894<>res://.godot/imported/goldensoundlabs-shimmy-294651.mp3-00c2cb7974ea02bffd774ef0a55fdbc7.mp3str::
+goldensoundlabs-shimmy-294651.wav::AudioStreamWAV::5213407135744817278::1773653593::1773653832::1::::<><><>0<>0<>65c6dda8e97a24666495c762228096a1<>res://.godot/imported/goldensoundlabs-shimmy-294651.wav-af11e1384bd0ce8433a24b6b01e942ec.sample::
 image (1).png::CompressedTexture2D::8572414585868147106::1773544726::1773545282::1::::<><><>0<>0<>8e0fd88c4624f760516c9965f5106f8b<>res://.godot/imported/image (1).png-49582c6c4ea62e7c32e062fb484102d6.ctex::
+track.wav::AudioStreamWAV::384725472892889373::1773653882::1773654635::1::::<><><>0<>0<>97f41cfa0a913781ce3184f4e037383d<>res://.godot/imported/track.wav-9716732ba40cd2d2b740a6d8d99573ed.sample::
 ::res://Assets/brackeys_platformer_assets/::1773652520
 caveRemasteredV7.png::CompressedTexture2D::6113223465807215197::1773652518::1773652520::1::::<><><>0<>0<>104b1f9c39c42a0c77b300bac516cd82<>res://.godot/imported/caveRemasteredV7.png-9e34acaf35d6435bfa2b85bd429734eb.ctex::
 ::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/::1773652552
@@ -383,7 +385,7 @@ Patreon.txt::TextFile::-1::1773652552::0::1::::<><><>0<>0<><>::
 4.png::CompressedTexture2D::3232881625116848614::1773652552::1773652552::1::::<><><>0<>0<>bf0b1477c4465d278ec845588e06e517<>res://.godot/imported/4.png-a93b9fe9c9cae0da7a411610e1f3c5df.ctex::
 5.png::CompressedTexture2D::6061152452875929770::1773652552::1773652552::1::::<><><>0<>0<>9b714550b31c8895a0617753c33a8f4b<>res://.godot/imported/5.png-21d463b7f807c9455d16fcaa82bd6f37.ctex::
 6.png::CompressedTexture2D::3519214369969640361::1773652552::1773652552::1::::<><><>0<>0<>804ac54134372006cf08dda0b2a21ee1<>res://.godot/imported/6.png-80c4ead3fdf7823b729a40f9f9d08bef.ctex::
-::res://Assets/FreeCatCharacterAnimations/::1773544892
+::res://Assets/FreeCatCharacterAnimations/::1773653853
 ::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/::1773652553
 1_Cat_Idle-Sheet.png::CompressedTexture2D::3959419809252679078::1773652552::1773652552::1::::<><><>0<>0<>8d8437547249924dcac31ca571d143b5<>res://.godot/imported/1_Cat_Idle-Sheet.png-34f47ac6b344579bec131f02983c5066.ctex::
 2_Cat_Run-Sheet.png::CompressedTexture2D::3756224913275199803::1773652552::1773652552::1::::<><><>0<>0<>1d626a07bc23d1fd016136cb68988fc3<>res://.godot/imported/2_Cat_Run-Sheet.png-be9a294526d59d4d45285bc5465893f5.ctex::
@@ -523,12 +525,12 @@ FreeUI.png::CompressedTexture2D::5992888172128478567::1773652553::1773652553::1:
 MediavelFree.png::CompressedTexture2D::2705354155179825182::1773652553::1773652553::1::::<><><>0<>0<>c176934165181dc2de213cd3a43d72b5<>res://.godot/imported/MediavelFree.png-78206e277aaddead5dce91cefdd88bd1.ctex::
 PastelUIFree.png::CompressedTexture2D::2196061593046413719::1773652553::1773652553::1::::<><><>0<>0<>4af1ca6b80d89f275ed29dea5223ab5e<>res://.godot/imported/PastelUIFree.png-84c515794a9d72ddf5d113c87b43587b.ctex::
 UiCozyFree.png::CompressedTexture2D::6605737831654281298::1773652553::1773652553::1::::<><><>0<>0<>2c74857eaee47e98bfd8fdaf9a785f6a<>res://.godot/imported/UiCozyFree.png-0dff8dc670d539330a7b77ceea772544.ctex::
-::res://index/::1773652886
-index.apple-touch-icon.png::CompressedTexture2D::8663884596183796443::1773652886::1773652138::1::::<><><>0<>0<>9a42049a8f509c0bab46fc7cf8941745<>res://.godot/imported/index.apple-touch-icon.png-7b995845c0a478c87d24a0118989ba83.ctex::
-index.icon.png::CompressedTexture2D::9007095540805701694::1773652886::1773653043::1::::<><><>0<>0<>5ae68571057a2d3103b120d42c7e8fd4<>res://.godot/imported/index.icon.png-9b91fe2628993b35c8d82c5ec7ac5d53.ctex::
-index.png::CompressedTexture2D::108486193126267076::1773652886::1773652138::1::::<><><>0<>0<>58b0e256cbfedab9bac3837ee6591ca2<>res://.godot/imported/index.png-d646afb8957734b59142c2e7c2ce3eb2.ctex::
-::res://Scenes/::1773652672
-audio_stream_player.tscn::PackedScene::6596506041282245065::1773544726::0::1::::<><><>0<>0<><>::uid://lqq3on2f8iru::::res://Assets/goldensoundlabs-shimmy-294651.ogg
+::res://index/::1773654377
+index.apple-touch-icon.png::CompressedTexture2D::8663884596183796443::1773654146::1773652138::1::::<><><>0<>0<>9a42049a8f509c0bab46fc7cf8941745<>res://.godot/imported/index.apple-touch-icon.png-7b995845c0a478c87d24a0118989ba83.ctex::
+index.icon.png::CompressedTexture2D::9007095540805701694::1773654146::1773654377::1::::<><><>0<>0<>5ae68571057a2d3103b120d42c7e8fd4<>res://.godot/imported/index.icon.png-9b91fe2628993b35c8d82c5ec7ac5d53.ctex::
+index.png::CompressedTexture2D::108486193126267076::1773654146::1773652138::1::::<><><>0<>0<>58b0e256cbfedab9bac3837ee6591ca2<>res://.godot/imported/index.png-d646afb8957734b59142c2e7c2ce3eb2.ctex::
+::res://Scenes/::1773654446
+audio_stream_player.tscn::PackedScene::6596506041282245065::1773654112::0::1::::<><><>0<>0<><>::uid://cgjob3ia4gqb3::::res://Assets/goldensoundlabs-shimmy-294651.wav
 coins.tscn::PackedScene::4373926612181394103::1773639397::0::1::::<><><>0<>0<><>::uid://nfn8tn6gqy2l::::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sprites/coin.png<>uid://c7axws8e4i85e::::res://Scripts/coins.gd<>uid://c3ge7yqjns2cn::::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sounds/coin.wav
 EndMenu.tscn::PackedScene::5481400558771518989::1773646637::0::1::::<><><>0<>0<><>::uid://duesoev74nauc::::res://Assets/image (1).png<>uid://cm2j3re4ojywf::::res://Assets/Buttons/Button_Blue_3Slides.png<>uid://qv62jt6m0llq::::res://Assets/Buttons/Button_Blue_3Slides_Pressed.png<>uid://cwtd0rlls2r7v::::res://Assets/Buttons/Button_Hover_3Slides.png<>uid://cj4013sgl38jh::::res://Scripts/start_button.gd<>uid://cx7ty6cghnapu::::res://Scripts/main_menu_button.gd
 final.tscn::PackedScene::2855344037798855874::1773646346::0::1::::<><><>0<>0<><>::uid://cqsh17l84hb2l::::res://Scripts/final.gd
@@ -536,7 +538,7 @@ KillScreen.tscn::PackedScene::2754040419809939253::1773651223::0::1::::<><><>0<>
 killzone.tscn::PackedScene::2600957830902156314::1773651879::0::1::::<><><>0<>0<><>::uid://cpgcvedaxtcd5::::res://Scripts/killzone.gd
 killzonesmall.tscn::PackedScene::8342341899525203240::1773650074::0::1::::<><><>0<>0<><>::uid://cpgcvedaxtcd5::::res://Scripts/killzone.gd
 MainMenu.tscn::PackedScene::5478149460907473310::1773639438::0::1::::<><><>0<>0<><>::uid://cm2j3re4ojywf::::res://Assets/Buttons/Button_Blue_3Slides.png<>uid://duesoev74nauc::::res://Assets/image (1).png<>uid://qv62jt6m0llq::::res://Assets/Buttons/Button_Blue_3Slides_Pressed.png<>uid://cwtd0rlls2r7v::::res://Assets/Buttons/Button_Hover_3Slides.png<>uid://cj4013sgl38jh::::res://Scripts/start_button.gd
-main_game.tscn::PackedScene::3732378460652649851::1773652671::0::1::::<><><>0<>0<><>::uid://bfh4wxnqu68fa::::res://Scenes/player.tscn<>uid://c8pv3oxgjiy34::::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sprites/world_tileset.png<>uid://bfn5mssrrahx2::::res://Scripts/game_manager.gd<>uid://bsovbymsf0cei::::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_03/pixel_platform_03_tileset_final.png<>uid://b3k06xxx4634f::::res://Scenes/coins.tscn<>uid://bgxfdmujcti7k::::res://Scenes/final.tscn<>uid://px1ungpf2lbq::::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_02/pixel_platform_02_tileset_final.png<>uid://bdb6npftfdxyg::::res://Scenes/killzone.tscn<>uid://cvw3cg5nu7xwa::::res://Assets/Pixel_Platformer_Tileset_Pack/Background/clouds.png<>uid://dq4dfgagg22u3::::res://Scenes/killzonesmall.tscn
+main_game.tscn::PackedScene::3732378460652649851::1773654446::0::1::::<><><>0<>0<><>::uid://bfh4wxnqu68fa::::res://Scenes/player.tscn<>uid://c8pv3oxgjiy34::::res://Assets/brackeys_platformer_assets/brackeys_platformer_assets/sprites/world_tileset.png<>uid://bfn5mssrrahx2::::res://Scripts/game_manager.gd<>uid://bsovbymsf0cei::::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_03/pixel_platform_03_tileset_final.png<>uid://b3k06xxx4634f::::res://Scenes/coins.tscn<>uid://bgxfdmujcti7k::::res://Scenes/final.tscn<>uid://px1ungpf2lbq::::res://Assets/Pixel_Platformer_Tileset_Pack/Asset_02/pixel_platform_02_tileset_final.png<>uid://bdb6npftfdxyg::::res://Scenes/killzone.tscn<>uid://cvw3cg5nu7xwa::::res://Assets/Pixel_Platformer_Tileset_Pack/Background/clouds.png<>uid://dq4dfgagg22u3::::res://Scenes/killzonesmall.tscn
 player.tscn::PackedScene::2753616855292277542::1773611597::0::1::::<><><>0<>0<><>::uid://bwn8cibocpsyw::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/1_Cat_Idle-Sheet.png<>uid://4be4ly5gtsbs::::res://Scripts/player.gd<>uid://c7efgpihq47t::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/3_Cat_Jump-Sheet.png<>uid://bdi65wif5buv4::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/4_Cat_Fall-Sheet.png<>uid://btrsqfyijp6bv::::res://Assets/FreeCatCharacterAnimations/FreeCatCharacterAnimations/2_Cat_Run-Sheet.png
 ::res://Scripts/::1773651879
 coins.gd::GDScript::7020321138722472148::1773650924::0::1::::<>Area2D<><>0<>0<><>::
